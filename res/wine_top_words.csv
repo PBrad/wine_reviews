@@ -1,0 +1,2935 @@
+,variable,tokens,count,tag
+0,Bordeaux-style Red Blend,tannins,3742,variety
+1,Bordeaux-style Red Blend,fruit,3141,variety
+2,Bordeaux-style Red Blend,flavors,2403,variety
+3,Bordeaux-style Red Blend,drink,2314,variety
+4,Bordeaux-style Red Blend,cabernet,2264,variety
+5,Bordeaux-style Red Blend,black,2137,variety
+6,Bordeaux-style Red Blend,ripe,2101,variety
+7,Bordeaux-style Red Blend,acidity,2051,variety
+8,Bordeaux-style Red Blend,fruits,1806,variety
+9,Bordeaux-style Red Blend,blend,1464,variety
+10,Bordeaux-style Red Blend,rich,1367,variety
+11,Bordeaux-style Red Blend,merlot,1363,variety
+12,Bordeaux-style Red Blend,firm,1312,variety
+13,Bordeaux-style Red Blend,wood,1263,variety
+14,Bordeaux-style Red Blend,sauvignon,1254,variety
+15,Bordeaux-style Red Blend,juicy,1147,variety
+16,Bordeaux-style Red Blend,structure,1144,variety
+17,Bordeaux-style Red Blend,dry,1038,variety
+18,Bordeaux-style Red Blend,dark,1025,variety
+19,Bordeaux-style Red Blend,blackberry,951,variety
+20,Bordeaux-style Red Blend,franc,933,variety
+21,Bordeaux-style Red Blend,red,928,variety
+22,Bordeaux-style Red Blend,aromas,863,variety
+23,Bordeaux-style Red Blend,character,848,variety
+24,Bordeaux-style Red Blend,spice,834,variety
+25,Bordeaux-style Red Blend,aging,833,variety
+26,Bordeaux-style Red Blend,dense,812,variety
+27,Bordeaux-style Red Blend,currant,793,variety
+28,Bordeaux-style Red Blend,berry,788,variety
+29,Bordeaux-style Red Blend,fruity,779,variety
+30,Bordeaux-style Red Blend,finish,770,variety
+31,Bordeaux-style Red Blend,structured,746,variety
+32,Bordeaux-style Red Blend,soft,742,variety
+33,Bordeaux-style Red Blend,cherry,730,variety
+34,Bordeaux-style Red Blend,years,719,variety
+35,Bordeaux-style Red Blend,fresh,705,variety
+36,Bordeaux-style Red Blend,shows,656,variety
+37,Bordeaux-style Red Blend,palate,638,variety
+38,Bordeaux-style Red Blend,age,614,variety
+39,Bordeaux-style Red Blend,barrel,600,variety
+40,Bordeaux-style Red Blend,fine,589,variety
+41,Bordeaux-style Red Blend,plum,577,variety
+42,Bordeaux-style Red Blend,balanced,551,variety
+43,Bordeaux-style Red Blend,texture,549,variety
+44,Bordeaux-style Red Blend,verdot,542,variety
+45,Bordeaux-style Red Blend,petit,541,variety
+46,Bordeaux-style Red Blend,chocolate,531,variety
+47,Bordeaux-style Red Blend,concentrated,526,variety
+48,Bordeaux-style Red Blend,solid,515,variety
+49,Bordeaux-style Red Blend,tannic,512,variety
+50,Cabernet Sauvignon,flavors,5224,variety
+51,Cabernet Sauvignon,tannins,3403,variety
+52,Cabernet Sauvignon,black,3162,variety
+53,Cabernet Sauvignon,fruit,2957,variety
+54,Cabernet Sauvignon,cabernet,2938,variety
+55,Cabernet Sauvignon,cherry,2688,variety
+56,Cabernet Sauvignon,finish,2558,variety
+57,Cabernet Sauvignon,aromas,2388,variety
+58,Cabernet Sauvignon,oak,2377,variety
+59,Cabernet Sauvignon,blackberry,2242,variety
+60,Cabernet Sauvignon,palate,1978,variety
+61,Cabernet Sauvignon,cassis,1581,variety
+62,Cabernet Sauvignon,drink,1461,variety
+63,Cabernet Sauvignon,chocolate,1419,variety
+64,Cabernet Sauvignon,ripe,1408,variety
+65,Cabernet Sauvignon,dry,1304,variety
+66,Cabernet Sauvignon,currant,1301,variety
+67,Cabernet Sauvignon,plum,1294,variety
+68,Cabernet Sauvignon,notes,1284,variety
+69,Cabernet Sauvignon,rich,1264,variety
+70,Cabernet Sauvignon,soft,1240,variety
+71,Cabernet Sauvignon,red,1204,variety
+72,Cabernet Sauvignon,dark,1201,variety
+73,Cabernet Sauvignon,berry,1165,variety
+74,Cabernet Sauvignon,good,1080,variety
+75,Cabernet Sauvignon,sweet,1078,variety
+76,Cabernet Sauvignon,years,1062,variety
+77,Cabernet Sauvignon,tannic,1020,variety
+78,Cabernet Sauvignon,spice,969,variety
+79,Cabernet Sauvignon,shows,968,variety
+80,Cabernet Sauvignon,cab,966,variety
+81,Cabernet Sauvignon,nose,965,variety
+82,Cabernet Sauvignon,acidity,960,variety
+83,Cabernet Sauvignon,cedar,921,variety
+84,Cabernet Sauvignon,herbal,907,variety
+85,Cabernet Sauvignon,vanilla,807,variety
+86,Cabernet Sauvignon,blackberries,779,variety
+87,Cabernet Sauvignon,herb,738,variety
+88,Cabernet Sauvignon,firm,732,variety
+89,Cabernet Sauvignon,tobacco,673,variety
+90,Cabernet Sauvignon,pepper,664,variety
+91,Cabernet Sauvignon,sauvignon,637,variety
+92,Cabernet Sauvignon,structure,635,variety
+93,Cabernet Sauvignon,spicy,632,variety
+94,Cabernet Sauvignon,100,620,variety
+95,Cabernet Sauvignon,dried,620,variety
+96,Cabernet Sauvignon,bit,618,variety
+97,Cabernet Sauvignon,time,581,variety
+98,Cabernet Sauvignon,currants,579,variety
+99,Cabernet Sauvignon,smoky,579,variety
+100,Chardonnay,flavors,6021,variety
+101,Chardonnay,acidity,4051,variety
+102,Chardonnay,fruit,3449,variety
+103,Chardonnay,apple,3417,variety
+104,Chardonnay,chardonnay,3017,variety
+105,Chardonnay,finish,2605,variety
+106,Chardonnay,ripe,2564,variety
+107,Chardonnay,oak,2506,variety
+108,Chardonnay,palate,2360,variety
+109,Chardonnay,aromas,2255,variety
+110,Chardonnay,drink,2236,variety
+111,Chardonnay,pear,1983,variety
+112,Chardonnay,rich,1928,variety
+113,Chardonnay,lemon,1915,variety
+114,Chardonnay,crisp,1912,variety
+115,Chardonnay,vanilla,1776,variety
+116,Chardonnay,citrus,1737,variety
+117,Chardonnay,toast,1603,variety
+118,Chardonnay,texture,1585,variety
+119,Chardonnay,peach,1537,variety
+120,Chardonnay,pineapple,1480,variety
+121,Chardonnay,nose,1405,variety
+122,Chardonnay,fresh,1319,variety
+123,Chardonnay,white,1294,variety
+124,Chardonnay,notes,1261,variety
+125,Chardonnay,fruits,1243,variety
+126,Chardonnay,creamy,1237,variety
+127,Chardonnay,tropical,1183,variety
+128,Chardonnay,sweet,1055,variety
+129,Chardonnay,green,1042,variety
+130,Chardonnay,spice,1040,variety
+131,Chardonnay,shows,1037,variety
+132,Chardonnay,soft,1003,variety
+133,Chardonnay,light,977,variety
+134,Chardonnay,buttered,936,variety
+135,Chardonnay,lime,897,variety
+136,Chardonnay,minerality,892,variety
+137,Chardonnay,touch,889,variety
+138,Chardonnay,good,885,variety
+139,Chardonnay,character,877,variety
+140,Chardonnay,yellow,871,variety
+141,Chardonnay,bright,870,variety
+142,Chardonnay,balanced,862,variety
+143,Chardonnay,offers,817,variety
+144,Chardonnay,orange,817,variety
+145,Chardonnay,fruity,752,variety
+146,Chardonnay,melon,746,variety
+147,Chardonnay,wood,744,variety
+148,Chardonnay,mineral,729,variety
+149,Chardonnay,dry,728,variety
+150,Malbec,flavors,1865,variety
+151,Malbec,aromas,1362,variety
+152,Malbec,finish,1246,variety
+153,Malbec,berry,1000,variety
+154,Malbec,palate,911,variety
+155,Malbec,malbec,854,variety
+156,Malbec,plum,810,variety
+157,Malbec,fruit,795,variety
+158,Malbec,black,735,variety
+159,Malbec,blackberry,704,variety
+160,Malbec,tannins,667,variety
+161,Malbec,drink,624,variety
+162,Malbec,oak,500,variety
+163,Malbec,notes,490,variety
+164,Malbec,acidity,461,variety
+165,Malbec,ripe,456,variety
+166,Malbec,herbal,441,variety
+167,Malbec,dark,433,variety
+168,Malbec,fruits,431,variety
+169,Malbec,spice,404,variety
+170,Malbec,nose,384,variety
+171,Malbec,cherry,359,variety
+172,Malbec,chocolate,334,variety
+173,Malbec,feels,313,variety
+174,Malbec,rich,254,variety
+175,Malbec,tannic,252,variety
+176,Malbec,red,240,variety
+177,Malbec,cassis,234,variety
+178,Malbec,good,229,variety
+179,Malbec,sweet,222,variety
+180,Malbec,wood,219,variety
+181,Malbec,fresh,218,variety
+182,Malbec,dense,216,variety
+183,Malbec,jammy,216,variety
+184,Malbec,juicy,213,variety
+185,Malbec,vanilla,207,variety
+186,Malbec,feel,205,variety
+187,Malbec,oaky,204,variety
+188,Malbec,earthy,197,variety
+189,Malbec,dry,195,variety
+190,Malbec,spicy,195,variety
+191,Malbec,toasty,190,variety
+192,Malbec,raspberry,188,variety
+193,Malbec,bit,186,variety
+194,Malbec,solid,186,variety
+195,Malbec,firm,185,variety
+196,Malbec,touch,181,variety
+197,Malbec,blueberry,177,variety
+198,Malbec,mouth,177,variety
+199,Malbec,big,175,variety
+200,Merlot,flavors,1751,variety
+201,Merlot,merlot,1192,variety
+202,Merlot,fruit,1113,variety
+203,Merlot,cherry,1100,variety
+204,Merlot,tannins,1024,variety
+205,Merlot,finish,814,variety
+206,Merlot,aromas,780,variety
+207,Merlot,black,751,variety
+208,Merlot,red,648,variety
+209,Merlot,palate,618,variety
+210,Merlot,plum,609,variety
+211,Merlot,oak,582,variety
+212,Merlot,soft,487,variety
+213,Merlot,ripe,448,variety
+214,Merlot,dry,446,variety
+215,Merlot,spice,441,variety
+216,Merlot,notes,433,variety
+217,Merlot,blackberry,406,variety
+218,Merlot,drink,406,variety
+219,Merlot,berry,401,variety
+220,Merlot,rich,376,variety
+221,Merlot,chocolate,372,variety
+222,Merlot,good,344,variety
+223,Merlot,acidity,324,variety
+224,Merlot,sweet,313,variety
+225,Merlot,dark,307,variety
+226,Merlot,vanilla,301,variety
+227,Merlot,nose,298,variety
+228,Merlot,herbal,262,variety
+229,Merlot,shows,262,variety
+230,Merlot,cherries,249,variety
+231,Merlot,raspberry,248,variety
+232,Merlot,smooth,235,variety
+233,Merlot,tannic,235,variety
+234,Merlot,currant,225,variety
+235,Merlot,pepper,219,variety
+236,Merlot,green,218,variety
+237,Merlot,herb,217,variety
+238,Merlot,light,216,variety
+239,Merlot,bit,199,variety
+240,Merlot,offers,194,variety
+241,Merlot,texture,191,variety
+242,Merlot,cabernet,189,variety
+243,Merlot,coffee,179,variety
+244,Merlot,licorice,179,variety
+245,Merlot,cedar,178,variety
+246,Merlot,firm,178,variety
+247,Merlot,herbs,172,variety
+248,Merlot,spicy,172,variety
+249,Merlot,theres,171,variety
+250,Nebbiolo,tannins,1931,variety
+251,Nebbiolo,aromas,1843,variety
+252,Nebbiolo,palate,1744,variety
+253,Nebbiolo,cherry,1721,variety
+254,Nebbiolo,berry,1164,variety
+255,Nebbiolo,spice,1026,variety
+256,Nebbiolo,drink,1014,variety
+257,Nebbiolo,black,923,variety
+258,Nebbiolo,red,839,variety
+259,Nebbiolo,offers,811,variety
+260,Nebbiolo,licorice,759,variety
+261,Nebbiolo,firm,739,variety
+262,Nebbiolo,alongside,718,variety
+263,Nebbiolo,fruit,689,variety
+264,Nebbiolo,leather,630,variety
+265,Nebbiolo,ripe,592,variety
+266,Nebbiolo,acidity,586,variety
+267,Nebbiolo,finish,585,variety
+268,Nebbiolo,raspberry,566,variety
+269,Nebbiolo,dried,544,variety
+270,Nebbiolo,herb,543,variety
+271,Nebbiolo,note,502,variety
+272,Nebbiolo,opens,492,variety
+273,Nebbiolo,rose,490,variety
+274,Nebbiolo,pepper,485,variety
+275,Nebbiolo,dark,447,variety
+276,Nebbiolo,clove,443,variety
+277,Nebbiolo,oak,442,variety
+278,Nebbiolo,white,427,variety
+279,Nebbiolo,crushed,426,variety
+280,Nebbiolo,wild,423,variety
+281,Nebbiolo,notes,419,variety
+282,Nebbiolo,bright,417,variety
+283,Nebbiolo,barolo,404,variety
+284,Nebbiolo,nose,400,variety
+285,Nebbiolo,tobacco,393,variety
+286,Nebbiolo,shows,390,variety
+287,Nebbiolo,delivers,388,variety
+288,Nebbiolo,anise,378,variety
+289,Nebbiolo,lead,355,variety
+290,Nebbiolo,espresso,352,variety
+291,Nebbiolo,whiff,342,variety
+292,Nebbiolo,menthol,327,variety
+293,Nebbiolo,structured,322,variety
+294,Nebbiolo,balsamic,320,variety
+295,Nebbiolo,flavors,318,variety
+296,Nebbiolo,nebbiolo,316,variety
+297,Nebbiolo,hint,315,variety
+298,Nebbiolo,sage,310,variety
+299,Nebbiolo,glass,293,variety
+300,Pinot Gris,flavors,671,variety
+301,Pinot Gris,pear,647,variety
+302,Pinot Gris,fruit,585,variety
+303,Pinot Gris,finish,393,variety
+304,Pinot Gris,pinot,393,variety
+305,Pinot Gris,palate,383,variety
+306,Pinot Gris,gris,378,variety
+307,Pinot Gris,apple,370,variety
+308,Pinot Gris,acidity,332,variety
+309,Pinot Gris,ripe,325,variety
+310,Pinot Gris,fresh,303,variety
+311,Pinot Gris,dry,302,variety
+312,Pinot Gris,notes,255,variety
+313,Pinot Gris,drink,236,variety
+314,Pinot Gris,citrus,208,variety
+315,Pinot Gris,nose,208,variety
+316,Pinot Gris,rich,200,variety
+317,Pinot Gris,aromas,180,variety
+318,Pinot Gris,white,178,variety
+319,Pinot Gris,crisp,168,variety
+320,Pinot Gris,light,168,variety
+321,Pinot Gris,freshness,161,variety
+322,Pinot Gris,spice,160,variety
+323,Pinot Gris,lemon,159,variety
+324,Pinot Gris,melon,156,variety
+325,Pinot Gris,peach,150,variety
+326,Pinot Gris,texture,141,variety
+327,Pinot Gris,sweet,140,variety
+328,Pinot Gris,clean,138,variety
+329,Pinot Gris,touch,123,variety
+330,Pinot Gris,spicy,117,variety
+331,Pinot Gris,balanced,115,variety
+332,Pinot Gris,green,107,variety
+333,Pinot Gris,sweetness,106,variety
+334,Pinot Gris,juicy,104,variety
+335,Pinot Gris,style,100,variety
+336,Pinot Gris,grapefruit,98,variety
+337,Pinot Gris,tart,97,variety
+338,Pinot Gris,fruity,96,variety
+339,Pinot Gris,refreshing,96,variety
+340,Pinot Gris,orange,95,variety
+341,Pinot Gris,hints,93,variety
+342,Pinot Gris,residual,92,variety
+343,Pinot Gris,slightly,92,variety
+344,Pinot Gris,balance,91,variety
+345,Pinot Gris,honey,91,variety
+346,Pinot Gris,flavor,87,variety
+347,Pinot Gris,bright,86,variety
+348,Pinot Gris,fruits,84,variety
+349,Pinot Gris,hint,84,variety
+350,Pinot Noir,flavors,5791,variety
+351,Pinot Noir,cherry,5096,variety
+352,Pinot Noir,fruit,4797,variety
+353,Pinot Noir,pinot,3646,variety
+354,Pinot Noir,acidity,3313,variety
+355,Pinot Noir,tannins,2970,variety
+356,Pinot Noir,finish,2722,variety
+357,Pinot Noir,red,2694,variety
+358,Pinot Noir,drink,2615,variety
+359,Pinot Noir,palate,2487,variety
+360,Pinot Noir,black,2433,variety
+361,Pinot Noir,raspberry,2269,variety
+362,Pinot Noir,ripe,2139,variety
+363,Pinot Noir,noir,2044,variety
+364,Pinot Noir,oak,2028,variety
+365,Pinot Noir,aromas,1837,variety
+366,Pinot Noir,light,1745,variety
+367,Pinot Noir,cola,1719,variety
+368,Pinot Noir,nose,1558,variety
+369,Pinot Noir,rich,1543,variety
+370,Pinot Noir,spice,1521,variety
+371,Pinot Noir,dry,1514,variety
+372,Pinot Noir,texture,1445,variety
+373,Pinot Noir,shows,1393,variety
+374,Pinot Noir,cherries,1378,variety
+375,Pinot Noir,notes,1359,variety
+376,Pinot Noir,vineyard,1295,variety
+377,Pinot Noir,soft,1269,variety
+378,Pinot Noir,fruits,1258,variety
+379,Pinot Noir,plum,1249,variety
+380,Pinot Noir,years,1233,variety
+381,Pinot Noir,cranberry,1218,variety
+382,Pinot Noir,strawberry,1196,variety
+383,Pinot Noir,tart,1194,variety
+384,Pinot Noir,dark,1183,variety
+385,Pinot Noir,silky,1108,variety
+386,Pinot Noir,fresh,1094,variety
+387,Pinot Noir,good,1012,variety
+388,Pinot Noir,earthy,993,variety
+389,Pinot Noir,structure,946,variety
+390,Pinot Noir,bottling,920,variety
+391,Pinot Noir,sweet,905,variety
+392,Pinot Noir,spicy,898,variety
+393,Pinot Noir,offers,873,variety
+394,Pinot Noir,berry,868,variety
+395,Pinot Noir,firm,848,variety
+396,Pinot Noir,complex,826,variety
+397,Pinot Noir,crisp,819,variety
+398,Pinot Noir,juicy,781,variety
+399,Pinot Noir,bright,774,variety
+400,Portuguese Red,tannins,1573,variety
+401,Portuguese Red,drink,1498,variety
+402,Portuguese Red,fruits,1208,variety
+403,Portuguese Red,acidity,1093,variety
+404,Portuguese Red,ripe,1019,variety
+405,Portuguese Red,fruit,897,variety
+406,Portuguese Red,black,875,variety
+407,Portuguese Red,rich,806,variety
+408,Portuguese Red,flavors,629,variety
+409,Portuguese Red,juicy,573,variety
+410,Portuguese Red,aging,562,variety
+411,Portuguese Red,wood,521,variety
+412,Portuguese Red,structure,518,variety
+413,Portuguese Red,firm,502,variety
+414,Portuguese Red,red,486,variety
+415,Portuguese Red,dark,468,variety
+416,Portuguese Red,dense,465,variety
+417,Portuguese Red,ready,453,variety
+418,Portuguese Red,soft,449,variety
+419,Portuguese Red,fruity,434,variety
+420,Portuguese Red,blend,400,variety
+421,Portuguese Red,berry,394,variety
+422,Portuguese Red,character,390,variety
+423,Portuguese Red,structured,368,variety
+424,Portuguese Red,age,332,variety
+425,Portuguese Red,texture,332,variety
+426,Portuguese Red,spice,329,variety
+427,Portuguese Red,concentrated,328,variety
+428,Portuguese Red,dry,322,variety
+429,Portuguese Red,2018,289,variety
+430,Portuguese Red,powerful,285,variety
+431,Portuguese Red,young,281,variety
+432,Portuguese Red,smooth,263,variety
+433,Portuguese Red,touriga,259,variety
+434,Portuguese Red,years,255,variety
+435,Portuguese Red,fresh,252,variety
+436,Portuguese Red,douro,250,variety
+437,Portuguese Red,solid,249,variety
+438,Portuguese Red,2017,242,variety
+439,Portuguese Red,plum,241,variety
+440,Portuguese Red,balanced,229,variety
+441,Portuguese Red,nacional,221,variety
+442,Portuguese Red,generous,215,variety
+443,Portuguese Red,blackberry,205,variety
+444,Portuguese Red,great,203,variety
+445,Portuguese Red,fine,199,variety
+446,Portuguese Red,needs,197,variety
+447,Portuguese Red,aftertaste,192,variety
+448,Portuguese Red,tannic,188,variety
+449,Portuguese Red,attractive,183,variety
+450,Red Blend,aromas,4148,variety
+451,Red Blend,blend,3974,variety
+452,Red Blend,flavors,3844,variety
+453,Red Blend,palate,3604,variety
+454,Red Blend,cherry,3579,variety
+455,Red Blend,black,3556,variety
+456,Red Blend,tannins,3473,variety
+457,Red Blend,cabernet,2851,variety
+458,Red Blend,fruit,2618,variety
+459,Red Blend,red,2436,variety
+460,Red Blend,finish,2253,variety
+461,Red Blend,spice,2134,variety
+462,Red Blend,sauvignon,2035,variety
+463,Red Blend,berry,2005,variety
+464,Red Blend,plum,1925,variety
+465,Red Blend,merlot,1797,variety
+466,Red Blend,drink,1771,variety
+467,Red Blend,ripe,1700,variety
+468,Red Blend,blackberry,1626,variety
+469,Red Blend,syrah,1616,variety
+470,Red Blend,offers,1468,variety
+471,Red Blend,pepper,1443,variety
+472,Red Blend,notes,1425,variety
+473,Red Blend,acidity,1206,variety
+474,Red Blend,oak,1139,variety
+475,Red Blend,sangiovese,1119,variety
+476,Red Blend,nose,1097,variety
+477,Red Blend,dark,1075,variety
+478,Red Blend,alongside,1052,variety
+479,Red Blend,chocolate,1038,variety
+480,Red Blend,tobacco,918,variety
+481,Red Blend,licorice,912,variety
+482,Red Blend,vanilla,900,variety
+483,Red Blend,soft,899,variety
+484,Red Blend,opens,893,variety
+485,Red Blend,dried,884,variety
+486,Red Blend,raspberry,880,variety
+487,Red Blend,leather,852,variety
+488,Red Blend,firm,834,variety
+489,Red Blend,fresh,807,variety
+490,Red Blend,juicy,792,variety
+491,Red Blend,rich,777,variety
+492,Red Blend,delivers,768,variety
+493,Red Blend,shows,733,variety
+494,Red Blend,sweet,700,variety
+495,Red Blend,franc,678,variety
+496,Red Blend,clove,659,variety
+497,Red Blend,smooth,643,variety
+498,Red Blend,herb,625,variety
+499,Red Blend,bright,621,variety
+500,Rhône-style Red Blend,blend,649,variety
+501,Rhône-style Red Blend,flavors,642,variety
+502,Rhône-style Red Blend,syrah,637,variety
+503,Rhône-style Red Blend,grenache,635,variety
+504,Rhône-style Red Blend,fruit,597,variety
+505,Rhône-style Red Blend,black,501,variety
+506,Rhône-style Red Blend,finish,479,variety
+507,Rhône-style Red Blend,mourvèdre,450,variety
+508,Rhône-style Red Blend,drink,427,variety
+509,Rhône-style Red Blend,cherry,416,variety
+510,Rhône-style Red Blend,aromas,369,variety
+511,Rhône-style Red Blend,tannins,365,variety
+512,Rhône-style Red Blend,palate,351,variety
+513,Rhône-style Red Blend,notes,344,variety
+514,Rhône-style Red Blend,red,279,variety
+515,Rhône-style Red Blend,nose,266,variety
+516,Rhône-style Red Blend,plum,231,variety
+517,Rhône-style Red Blend,spice,219,variety
+518,Rhône-style Red Blend,pepper,205,variety
+519,Rhône-style Red Blend,texture,198,variety
+520,Rhône-style Red Blend,dark,193,variety
+521,Rhône-style Red Blend,ripe,185,variety
+522,Rhône-style Red Blend,raspberry,164,variety
+523,Rhône-style Red Blend,blackberry,160,variety
+524,Rhône-style Red Blend,chocolate,160,variety
+525,Rhône-style Red Blend,rich,157,variety
+526,Rhône-style Red Blend,acidity,151,variety
+527,Rhône-style Red Blend,soft,149,variety
+528,Rhône-style Red Blend,hints,148,variety
+529,Rhône-style Red Blend,dried,142,variety
+530,Rhône-style Red Blend,cherries,141,variety
+531,Rhône-style Red Blend,shows,137,variety
+532,Rhône-style Red Blend,oak,134,variety
+533,Rhône-style Red Blend,long,128,variety
+534,Rhône-style Red Blend,years,126,variety
+535,Rhône-style Red Blend,licorice,121,variety
+536,Rhône-style Red Blend,leather,119,variety
+537,Rhône-style Red Blend,sweet,114,variety
+538,Rhône-style Red Blend,vanilla,111,variety
+539,Rhône-style Red Blend,rhône,108,variety
+540,Rhône-style Red Blend,berry,105,variety
+541,Rhône-style Red Blend,cinsault,105,variety
+542,Rhône-style Red Blend,structure,103,variety
+543,Rhône-style Red Blend,fullbodied,101,variety
+544,Rhône-style Red Blend,dry,99,variety
+545,Rhône-style Red Blend,bit,98,variety
+546,Rhône-style Red Blend,offers,97,variety
+547,Rhône-style Red Blend,20,96,variety
+548,Rhône-style Red Blend,firm,95,variety
+549,Rhône-style Red Blend,bright,94,variety
+550,Riesling,flavors,2312,variety
+551,Riesling,palate,2114,variety
+552,Riesling,riesling,2016,variety
+553,Riesling,finish,1928,variety
+554,Riesling,acidity,1703,variety
+555,Riesling,dry,1566,variety
+556,Riesling,lemon,1334,variety
+557,Riesling,notes,1283,variety
+558,Riesling,fruit,1232,variety
+559,Riesling,apple,1168,variety
+560,Riesling,peach,1127,variety
+561,Riesling,fresh,1032,variety
+562,Riesling,nose,989,variety
+563,Riesling,ripe,979,variety
+564,Riesling,citrus,962,variety
+565,Riesling,drink,902,variety
+566,Riesling,lime,887,variety
+567,Riesling,sweet,842,variety
+568,Riesling,long,741,variety
+569,Riesling,aromas,738,variety
+570,Riesling,mineral,681,variety
+571,Riesling,honey,670,variety
+572,Riesling,white,647,variety
+573,Riesling,tangerine,644,variety
+574,Riesling,grapefruit,584,variety
+575,Riesling,crisp,570,variety
+576,Riesling,concentrated,527,variety
+577,Riesling,pear,522,variety
+578,Riesling,offdry,519,variety
+579,Riesling,juicy,501,variety
+580,Riesling,fruity,499,variety
+581,Riesling,orange,494,variety
+582,Riesling,freshness,484,variety
+583,Riesling,stone,478,variety
+584,Riesling,zesty,472,variety
+585,Riesling,style,456,variety
+586,Riesling,hints,455,variety
+587,Riesling,tart,443,variety
+588,Riesling,rich,429,variety
+589,Riesling,bright,409,variety
+590,Riesling,green,409,variety
+591,Riesling,apricot,403,variety
+592,Riesling,refreshing,393,variety
+593,Riesling,light,383,variety
+594,Riesling,yellow,379,variety
+595,Riesling,minerality,378,variety
+596,Riesling,touch,373,variety
+597,Riesling,spice,371,variety
+598,Riesling,balanced,367,variety
+599,Riesling,delicate,365,variety
+600,Rosé,acidity,1485,variety
+601,Rosé,flavors,1298,variety
+602,Rosé,rosé,1163,variety
+603,Rosé,red,1021,variety
+604,Rosé,drink,904,variety
+605,Rosé,crisp,889,variety
+606,Rosé,fruit,805,variety
+607,Rosé,light,766,variety
+608,Rosé,ripe,689,variety
+609,Rosé,fresh,683,variety
+610,Rosé,fruity,678,variety
+611,Rosé,strawberry,654,variety
+612,Rosé,finish,636,variety
+613,Rosé,fruits,624,variety
+614,Rosé,palate,590,variety
+615,Rosé,aromas,569,variety
+616,Rosé,dry,535,variety
+617,Rosé,bright,527,variety
+618,Rosé,color,511,variety
+619,Rosé,soft,482,variety
+620,Rosé,cherry,471,variety
+621,Rosé,texture,469,variety
+622,Rosé,raspberry,443,variety
+623,Rosé,blend,396,variety
+624,Rosé,touch,389,variety
+625,Rosé,citrus,355,variety
+626,Rosé,rich,353,variety
+627,Rosé,character,349,variety
+628,Rosé,pink,345,variety
+629,Rosé,attractive,331,variety
+630,Rosé,aftertaste,326,variety
+631,Rosé,spice,319,variety
+632,Rosé,refreshing,317,variety
+633,Rosé,nose,303,variety
+634,Rosé,notes,296,variety
+635,Rosé,grenache,278,variety
+636,Rosé,lively,278,variety
+637,Rosé,syrah,278,variety
+638,Rosé,orange,274,variety
+639,Rosé,berry,259,variety
+640,Rosé,pale,253,variety
+641,Rosé,peach,251,variety
+642,Rosé,offers,249,variety
+643,Rosé,ready,237,variety
+644,Rosé,balanced,230,variety
+645,Rosé,sweet,227,variety
+646,Rosé,clean,226,variety
+647,Rosé,caramel,211,variety
+648,Rosé,tangy,200,variety
+649,Rosé,watermelon,197,variety
+650,Sangiovese,cherry,1668,variety
+651,Sangiovese,aromas,1540,variety
+652,Sangiovese,palate,1506,variety
+653,Sangiovese,tannins,1466,variety
+654,Sangiovese,black,1056,variety
+655,Sangiovese,fruit,777,variety
+656,Sangiovese,berry,766,variety
+657,Sangiovese,offers,741,variety
+658,Sangiovese,red,733,variety
+659,Sangiovese,drink,711,variety
+660,Sangiovese,spice,689,variety
+661,Sangiovese,alongside,645,variety
+662,Sangiovese,ripe,591,variety
+663,Sangiovese,flavors,534,variety
+664,Sangiovese,leather,516,variety
+665,Sangiovese,sangiovese,516,variety
+666,Sangiovese,finish,485,variety
+667,Sangiovese,plum,473,variety
+668,Sangiovese,acidity,449,variety
+669,Sangiovese,dried,434,variety
+670,Sangiovese,licorice,422,variety
+671,Sangiovese,raspberry,413,variety
+672,Sangiovese,tobacco,412,variety
+673,Sangiovese,oak,410,variety
+674,Sangiovese,nose,409,variety
+675,Sangiovese,notes,396,variety
+676,Sangiovese,herb,391,variety
+677,Sangiovese,opens,390,variety
+678,Sangiovese,firm,377,variety
+679,Sangiovese,pepper,368,variety
+680,Sangiovese,wild,355,variety
+681,Sangiovese,bright,354,variety
+682,Sangiovese,underbrush,347,variety
+683,Sangiovese,delivers,346,variety
+684,Sangiovese,vanilla,335,variety
+685,Sangiovese,note,329,variety
+686,Sangiovese,lead,320,variety
+687,Sangiovese,clove,315,variety
+688,Sangiovese,espresso,313,variety
+689,Sangiovese,hint,312,variety
+690,Sangiovese,juicy,312,variety
+691,Sangiovese,dark,303,variety
+692,Sangiovese,whiff,275,variety
+693,Sangiovese,fresh,267,variety
+694,Sangiovese,white,250,variety
+695,Sangiovese,anise,248,variety
+696,Sangiovese,coffee,245,variety
+697,Sangiovese,mature,243,variety
+698,Sangiovese,blue,242,variety
+699,Sangiovese,shows,239,variety
+700,Sauvignon Blanc,flavors,2625,variety
+701,Sauvignon Blanc,acidity,1490,variety
+702,Sauvignon Blanc,finish,1425,variety
+703,Sauvignon Blanc,fruit,1355,variety
+704,Sauvignon Blanc,citrus,1300,variety
+705,Sauvignon Blanc,green,1268,variety
+706,Sauvignon Blanc,aromas,1221,variety
+707,Sauvignon Blanc,sauvignon,1212,variety
+708,Sauvignon Blanc,palate,1141,variety
+709,Sauvignon Blanc,blanc,1096,variety
+710,Sauvignon Blanc,crisp,1036,variety
+711,Sauvignon Blanc,drink,940,variety
+712,Sauvignon Blanc,grapefruit,886,variety
+713,Sauvignon Blanc,lime,852,variety
+714,Sauvignon Blanc,ripe,791,variety
+715,Sauvignon Blanc,fresh,782,variety
+716,Sauvignon Blanc,white,750,variety
+717,Sauvignon Blanc,lemon,741,variety
+718,Sauvignon Blanc,apple,708,variety
+719,Sauvignon Blanc,notes,659,variety
+720,Sauvignon Blanc,nose,648,variety
+721,Sauvignon Blanc,texture,583,variety
+722,Sauvignon Blanc,tropical,513,variety
+723,Sauvignon Blanc,melon,511,variety
+724,Sauvignon Blanc,light,488,variety
+725,Sauvignon Blanc,clean,481,variety
+726,Sauvignon Blanc,dry,468,variety
+727,Sauvignon Blanc,fruits,444,variety
+728,Sauvignon Blanc,rich,431,variety
+729,Sauvignon Blanc,peach,398,variety
+730,Sauvignon Blanc,good,397,variety
+731,Sauvignon Blanc,character,391,variety
+732,Sauvignon Blanc,pineapple,385,variety
+733,Sauvignon Blanc,herbal,383,variety
+734,Sauvignon Blanc,bright,378,variety
+735,Sauvignon Blanc,grass,369,variety
+736,Sauvignon Blanc,gooseberry,363,variety
+737,Sauvignon Blanc,touch,360,variety
+738,Sauvignon Blanc,oak,350,variety
+739,Sauvignon Blanc,refreshing,345,variety
+740,Sauvignon Blanc,sweet,342,variety
+741,Sauvignon Blanc,pear,335,variety
+742,Sauvignon Blanc,shows,335,variety
+743,Sauvignon Blanc,soft,327,variety
+744,Sauvignon Blanc,vanilla,326,variety
+745,Sauvignon Blanc,fruity,318,variety
+746,Sauvignon Blanc,offers,313,variety
+747,Sauvignon Blanc,tart,311,variety
+748,Sauvignon Blanc,grassy,307,variety
+749,Sauvignon Blanc,tangy,307,variety
+750,Sparkling Blend,flavors,1060,variety
+751,Sparkling Blend,palate,885,variety
+752,Sparkling Blend,apple,883,variety
+753,Sparkling Blend,finish,727,variety
+754,Sparkling Blend,aromas,691,variety
+755,Sparkling Blend,acidity,530,variety
+756,Sparkling Blend,dry,502,variety
+757,Sparkling Blend,fresh,468,variety
+758,Sparkling Blend,pinot,468,variety
+759,Sparkling Blend,fruit,432,variety
+760,Sparkling Blend,citrus,431,variety
+761,Sparkling Blend,nose,399,variety
+762,Sparkling Blend,chardonnay,395,variety
+763,Sparkling Blend,notes,395,variety
+764,Sparkling Blend,crisp,350,variety
+765,Sparkling Blend,sparkling,347,variety
+766,Sparkling Blend,creamy,286,variety
+767,Sparkling Blend,noir,286,variety
+768,Sparkling Blend,blend,273,variety
+769,Sparkling Blend,lemon,261,variety
+770,Sparkling Blend,sweet,258,variety
+771,Sparkling Blend,yeasty,256,variety
+772,Sparkling Blend,ripe,254,variety
+773,Sparkling Blend,light,246,variety
+774,Sparkling Blend,white,233,variety
+775,Sparkling Blend,offers,231,variety
+776,Sparkling Blend,sparkler,231,variety
+777,Sparkling Blend,mousse,218,variety
+778,Sparkling Blend,rich,217,variety
+779,Sparkling Blend,vanilla,217,variety
+780,Sparkling Blend,lime,211,variety
+781,Sparkling Blend,bubbles,210,variety
+782,Sparkling Blend,green,206,variety
+783,Sparkling Blend,bread,205,variety
+784,Sparkling Blend,clean,203,variety
+785,Sparkling Blend,peach,201,variety
+786,Sparkling Blend,bright,196,variety
+787,Sparkling Blend,soft,194,variety
+788,Sparkling Blend,strawberry,187,variety
+789,Sparkling Blend,bubbly,178,variety
+790,Sparkling Blend,fine,174,variety
+791,Sparkling Blend,drink,173,variety
+792,Sparkling Blend,orange,173,variety
+793,Sparkling Blend,touch,172,variety
+794,Sparkling Blend,elegant,170,variety
+795,Sparkling Blend,fruity,169,variety
+796,Sparkling Blend,texture,166,variety
+797,Sparkling Blend,good,163,variety
+798,Sparkling Blend,lively,163,variety
+799,Sparkling Blend,pear,158,variety
+800,Syrah,flavors,2333,variety
+801,Syrah,fruit,1766,variety
+802,Syrah,black,1517,variety
+803,Syrah,syrah,1499,variety
+804,Syrah,aromas,1273,variety
+805,Syrah,finish,1091,variety
+806,Syrah,pepper,1026,variety
+807,Syrah,tannins,1008,variety
+808,Syrah,palate,974,variety
+809,Syrah,blackberry,926,variety
+810,Syrah,cherry,781,variety
+811,Syrah,notes,709,variety
+812,Syrah,drink,645,variety
+813,Syrah,dark,623,variety
+814,Syrah,rich,568,variety
+815,Syrah,nose,559,variety
+816,Syrah,oak,552,variety
+817,Syrah,spice,549,variety
+818,Syrah,ripe,526,variety
+819,Syrah,plum,519,variety
+820,Syrah,chocolate,492,variety
+821,Syrah,acidity,464,variety
+822,Syrah,red,456,variety
+823,Syrah,shows,438,variety
+824,Syrah,berry,430,variety
+825,Syrah,meat,417,variety
+826,Syrah,soft,412,variety
+827,Syrah,dry,397,variety
+828,Syrah,sweet,365,variety
+829,Syrah,vineyard,356,variety
+830,Syrah,licorice,347,variety
+831,Syrah,tannic,346,variety
+832,Syrah,blueberry,336,variety
+833,Syrah,good,333,variety
+834,Syrah,vanilla,320,variety
+835,Syrah,coffee,319,variety
+836,Syrah,savory,318,variety
+837,Syrah,raspberry,291,variety
+838,Syrah,dried,285,variety
+839,Syrah,bit,277,variety
+840,Syrah,blackberries,275,variety
+841,Syrah,herb,274,variety
+842,Syrah,tart,270,variety
+843,Syrah,texture,270,variety
+844,Syrah,bottling,268,variety
+845,Syrah,herbs,258,variety
+846,Syrah,years,258,variety
+847,Syrah,spicy,255,variety
+848,Syrah,offers,253,variety
+849,Syrah,leather,249,variety
+850,Tempranillo,flavors,1451,variety
+851,Tempranillo,aromas,1150,variety
+852,Tempranillo,finish,983,variety
+853,Tempranillo,berry,826,variety
+854,Tempranillo,plum,719,variety
+855,Tempranillo,palate,697,variety
+856,Tempranillo,oak,492,variety
+857,Tempranillo,fruit,468,variety
+858,Tempranillo,cherry,457,variety
+859,Tempranillo,drink,449,variety
+860,Tempranillo,tannins,402,variety
+861,Tempranillo,notes,378,variety
+862,Tempranillo,blackberry,353,variety
+863,Tempranillo,black,343,variety
+864,Tempranillo,spice,342,variety
+865,Tempranillo,feels,328,variety
+866,Tempranillo,nose,313,variety
+867,Tempranillo,vanilla,310,variety
+868,Tempranillo,raspberry,286,variety
+869,Tempranillo,tannic,276,variety
+870,Tempranillo,red,268,variety
+871,Tempranillo,earthy,265,variety
+872,Tempranillo,acidity,262,variety
+873,Tempranillo,ripe,249,variety
+874,Tempranillo,dark,238,variety
+875,Tempranillo,fresh,236,variety
+876,Tempranillo,tempranillo,224,variety
+877,Tempranillo,chocolate,221,variety
+878,Tempranillo,good,219,variety
+879,Tempranillo,fruits,216,variety
+880,Tempranillo,herbal,214,variety
+881,Tempranillo,dry,204,variety
+882,Tempranillo,oaky,192,variety
+883,Tempranillo,tobacco,189,variety
+884,Tempranillo,toasty,178,variety
+885,Tempranillo,baked,163,variety
+886,Tempranillo,roasted,163,variety
+887,Tempranillo,rioja,161,variety
+888,Tempranillo,bit,157,variety
+889,Tempranillo,spicy,157,variety
+890,Tempranillo,leather,156,variety
+891,Tempranillo,feel,142,variety
+892,Tempranillo,light,132,variety
+893,Tempranillo,tight,132,variety
+894,Tempranillo,come,129,variety
+895,Tempranillo,sweet,127,variety
+896,Tempranillo,touch,126,variety
+897,Tempranillo,slightly,123,variety
+898,Tempranillo,mouth,121,variety
+899,Tempranillo,hard,119,variety
+900,White Blend,blend,1110,variety
+901,White Blend,flavors,992,variety
+902,White Blend,aromas,913,variety
+903,White Blend,white,889,variety
+904,White Blend,palate,794,variety
+905,White Blend,fruit,787,variety
+906,White Blend,finish,622,variety
+907,White Blend,acidity,615,variety
+908,White Blend,apple,569,variety
+909,White Blend,citrus,553,variety
+910,White Blend,peach,515,variety
+911,White Blend,blanc,435,variety
+912,White Blend,chardonnay,426,variety
+913,White Blend,fresh,417,variety
+914,White Blend,offers,386,variety
+915,White Blend,sauvignon,385,variety
+916,White Blend,crisp,365,variety
+917,White Blend,lemon,347,variety
+918,White Blend,pear,332,variety
+919,White Blend,notes,306,variety
+920,White Blend,nose,296,variety
+921,White Blend,apricot,295,variety
+922,White Blend,sweet,269,variety
+923,White Blend,viognier,268,variety
+924,White Blend,honey,261,variety
+925,White Blend,ripe,253,variety
+926,White Blend,drink,247,variety
+927,White Blend,melon,234,variety
+928,White Blend,pinot,229,variety
+929,White Blend,almond,221,variety
+930,White Blend,green,218,variety
+931,White Blend,orange,217,variety
+932,White Blend,bright,216,variety
+933,White Blend,yellow,212,variety
+934,White Blend,spice,210,variety
+935,White Blend,rich,209,variety
+936,White Blend,vanilla,208,variety
+937,White Blend,light,207,variety
+938,White Blend,creamy,196,variety
+939,White Blend,stone,192,variety
+940,White Blend,clean,181,variety
+941,White Blend,dry,181,variety
+942,White Blend,opens,181,variety
+943,White Blend,texture,164,variety
+944,White Blend,touch,163,variety
+945,White Blend,floral,162,variety
+946,White Blend,mineral,162,variety
+947,White Blend,soft,162,variety
+948,White Blend,flower,160,variety
+949,White Blend,note,158,variety
+950,Zinfandel,flavors,1435,variety
+951,Zinfandel,fruit,751,variety
+952,Zinfandel,zin,702,variety
+953,Zinfandel,blackberry,611,variety
+954,Zinfandel,tannins,607,variety
+955,Zinfandel,black,603,variety
+956,Zinfandel,finish,585,variety
+957,Zinfandel,ripe,546,variety
+958,Zinfandel,cherry,521,variety
+959,Zinfandel,pepper,521,variety
+960,Zinfandel,zinfandel,490,variety
+961,Zinfandel,dry,488,variety
+962,Zinfandel,sweet,483,variety
+963,Zinfandel,soft,434,variety
+964,Zinfandel,rich,420,variety
+965,Zinfandel,alcohol,410,variety
+966,Zinfandel,chocolate,363,variety
+967,Zinfandel,red,359,variety
+968,Zinfandel,aromas,358,variety
+969,Zinfandel,spice,347,variety
+970,Zinfandel,palate,342,variety
+971,Zinfandel,oak,323,variety
+972,Zinfandel,berry,317,variety
+973,Zinfandel,raspberry,308,variety
+974,Zinfandel,acidity,303,variety
+975,Zinfandel,like,299,variety
+976,Zinfandel,texture,295,variety
+977,Zinfandel,spicy,290,variety
+978,Zinfandel,wild,281,variety
+979,Zinfandel,drink,276,variety
+980,Zinfandel,good,276,variety
+981,Zinfandel,high,276,variety
+982,Zinfandel,fullbodied,252,variety
+983,Zinfandel,shows,230,variety
+984,Zinfandel,tannic,228,variety
+985,Zinfandel,dark,222,variety
+986,Zinfandel,big,214,variety
+987,Zinfandel,plum,203,variety
+988,Zinfandel,cherries,201,variety
+989,Zinfandel,blackberries,197,variety
+990,Zinfandel,cinnamon,196,variety
+991,Zinfandel,nose,195,variety
+992,Zinfandel,notes,190,variety
+993,Zinfandel,vineyard,182,variety
+994,Zinfandel,smooth,180,variety
+995,Zinfandel,vanilla,180,variety
+996,Zinfandel,briary,179,variety
+997,Zinfandel,jam,177,variety
+998,Zinfandel,cola,173,variety
+999,Zinfandel,fruity,173,variety
+1000,Argentina,flavors,2645,country
+1001,Argentina,aromas,2209,country
+1002,Argentina,finish,2020,country
+1003,Argentina,palate,1509,country
+1004,Argentina,berry,1379,country
+1005,Argentina,plum,976,country
+1006,Argentina,blackberry,790,country
+1007,Argentina,herbal,715,country
+1008,Argentina,oak,696,country
+1009,Argentina,malbec,678,country
+1010,Argentina,notes,648,country
+1011,Argentina,fruit,638,country
+1012,Argentina,nose,619,country
+1013,Argentina,drink,598,country
+1014,Argentina,black,570,country
+1015,Argentina,feels,552,country
+1016,Argentina,cherry,488,country
+1017,Argentina,acidity,483,country
+1018,Argentina,spice,469,country
+1019,Argentina,ripe,429,country
+1020,Argentina,chocolate,421,country
+1021,Argentina,fruits,400,country
+1022,Argentina,tannins,399,country
+1023,Argentina,cassis,386,country
+1024,Argentina,good,362,country
+1025,Argentina,sweet,355,country
+1026,Argentina,oaky,352,country
+1027,Argentina,feel,329,country
+1028,Argentina,baked,315,country
+1029,Argentina,raspberry,309,country
+1030,Argentina,earthy,308,country
+1031,Argentina,tastes,308,country
+1032,Argentina,tannic,303,country
+1033,Argentina,dark,295,country
+1034,Argentina,green,289,country
+1035,Argentina,red,289,country
+1036,Argentina,vanilla,289,country
+1037,Argentina,fresh,285,country
+1038,Argentina,spicy,282,country
+1039,Argentina,blend,278,country
+1040,Argentina,jammy,278,country
+1041,Argentina,toasty,276,country
+1042,Argentina,bit,261,country
+1043,Argentina,mouth,261,country
+1044,Argentina,heavy,256,country
+1045,Argentina,roasted,241,country
+1046,Argentina,apple,235,country
+1047,Argentina,like,235,country
+1048,Argentina,come,232,country
+1049,Argentina,creamy,229,country
+1050,Armenia,bright,2,country
+1051,Armenia,bouquet,1,country
+1052,Armenia,cantaloupe,1,country
+1053,Armenia,citrus,1,country
+1054,Armenia,color,1,country
+1055,Armenia,culminate,1,country
+1056,Armenia,deep,1,country
+1057,Armenia,entry,1,country
+1058,Armenia,finish,1,country
+1059,Armenia,flavors,1,country
+1060,Armenia,grapefruit,1,country
+1061,Armenia,mouthfeel,1,country
+1062,Armenia,nectarine,1,country
+1063,Armenia,offers,1,country
+1064,Armenia,peach,1,country
+1065,Armenia,pineapple,1,country
+1066,Armenia,salmon,1,country
+1067,Armenia,white,1,country
+1068,Australia,finish,580,country
+1069,Australia,drink,528,country
+1070,Australia,fruit,503,country
+1071,Australia,flavors,494,country
+1072,Australia,notes,401,country
+1073,Australia,aromas,268,country
+1074,Australia,palate,263,country
+1075,Australia,citrus,211,country
+1076,Australia,hints,207,country
+1077,Australia,long,201,country
+1078,Australia,vanilla,193,country
+1079,Australia,cabernet,190,country
+1080,Australia,nose,185,country
+1081,Australia,cassis,178,country
+1082,Australia,mediumbodied,178,country
+1083,Australia,crisp,175,country
+1084,Australia,tannins,175,country
+1085,Australia,chardonnay,170,country
+1086,Australia,slightly,157,country
+1087,Australia,texture,142,country
+1088,Australia,oak,140,country
+1089,Australia,cherry,135,country
+1090,Australia,bit,133,country
+1091,Australia,pineapple,132,country
+1092,Australia,peach,119,country
+1093,Australia,years,109,country
+1094,Australia,soft,108,country
+1095,Australia,apple,107,country
+1096,Australia,pinot,104,country
+1097,Australia,ripe,104,country
+1098,Australia,dry,101,country
+1099,Australia,melon,100,country
+1100,Australia,good,98,country
+1101,Australia,theres,98,country
+1102,Australia,lime,97,country
+1103,Australia,finishes,95,country
+1104,Australia,shows,95,country
+1105,Australia,blend,92,country
+1106,Australia,mouth,91,country
+1107,Australia,pear,88,country
+1108,Australia,red,87,country
+1109,Australia,silky,84,country
+1110,Australia,tart,84,country
+1111,Australia,medium,83,country
+1112,Australia,riesling,83,country
+1113,Australia,fresh,82,country
+1114,Australia,cedar,81,country
+1115,Australia,offers,81,country
+1116,Australia,sauvignon,81,country
+1117,Australia,price,78,country
+1118,Austria,palate,569,country
+1119,Austria,fruit,493,country
+1120,Austria,nose,353,country
+1121,Austria,ripe,343,country
+1122,Austria,fresh,333,country
+1123,Austria,acidity,325,country
+1124,Austria,lemon,310,country
+1125,Austria,freshness,304,country
+1126,Austria,notes,267,country
+1127,Austria,flavors,253,country
+1128,Austria,citrus,247,country
+1129,Austria,finish,191,country
+1130,Austria,drink,182,country
+1131,Austria,red,174,country
+1132,Austria,apple,156,country
+1133,Austria,light,154,country
+1134,Austria,dry,140,country
+1135,Austria,refreshing,137,country
+1136,Austria,slender,137,country
+1137,Austria,white,131,country
+1138,Austria,soft,123,country
+1139,Austria,zesty,122,country
+1140,Austria,riesling,121,country
+1141,Austria,texture,121,country
+1142,Austria,screwcap,119,country
+1143,Austria,zest,119,country
+1144,Austria,crisp,114,country
+1145,Austria,rich,113,country
+1146,Austria,aromatic,112,country
+1147,Austria,body,110,country
+1148,Austria,grapefruit,110,country
+1149,Austria,fruits,109,country
+1150,Austria,green,109,country
+1151,Austria,years,109,country
+1152,Austria,juicy,108,country
+1153,Austria,touch,103,country
+1154,Austria,peel,100,country
+1155,Austria,concentrated,97,country
+1156,Austria,pear,96,country
+1157,Austria,spice,96,country
+1158,Austria,fruity,94,country
+1159,Austria,orange,92,country
+1160,Austria,delicious,90,country
+1161,Austria,yellow,90,country
+1162,Austria,cherry,89,country
+1163,Austria,character,88,country
+1164,Austria,rounded,86,country
+1165,Austria,core,84,country
+1166,Austria,great,84,country
+1167,Austria,hints,83,country
+1168,Brazil,flavors,26,country
+1169,Brazil,aromas,21,country
+1170,Brazil,finish,20,country
+1171,Brazil,palate,14,country
+1172,Brazil,plum,12,country
+1173,Brazil,cherry,10,country
+1174,Brazil,dry,9,country
+1175,Brazil,feels,9,country
+1176,Brazil,cabernet,8,country
+1177,Brazil,merlot,8,country
+1178,Brazil,tannic,7,country
+1179,Brazil,yeasty,7,country
+1180,Brazil,fruit,6,country
+1181,Brazil,fruits,6,country
+1182,Brazil,mouth,6,country
+1183,Brazil,notes,6,country
+1184,Brazil,acidity,5,country
+1185,Brazil,apple,5,country
+1186,Brazil,berry,5,country
+1187,Brazil,blend,5,country
+1188,Brazil,citrus,5,country
+1189,Brazil,sauvignon,5,country
+1190,Brazil,slightly,5,country
+1191,Brazil,color,4,country
+1192,Brazil,earthy,4,country
+1193,Brazil,foamy,4,country
+1194,Brazil,hard,4,country
+1195,Brazil,herbal,4,country
+1196,Brazil,nose,4,country
+1197,Brazil,note,4,country
+1198,Brazil,tight,4,country
+1199,Brazil,white,4,country
+1200,Brazil,acidic,3,country
+1201,Brazil,barrel,3,country
+1202,Brazil,bitter,3,country
+1203,Brazil,black,3,country
+1204,Brazil,bready,3,country
+1205,Brazil,buttery,3,country
+1206,Brazil,cab,3,country
+1207,Brazil,dark,3,country
+1208,Brazil,feel,3,country
+1209,Brazil,fruity,3,country
+1210,Brazil,high,3,country
+1211,Brazil,light,3,country
+1212,Brazil,like,3,country
+1213,Brazil,oak,3,country
+1214,Brazil,oaky,3,country
+1215,Brazil,orange,3,country
+1216,Brazil,pepper,3,country
+1217,Brazil,raspberry,3,country
+1218,Bulgaria,cherry,101,country
+1219,Bulgaria,flavors,88,country
+1220,Bulgaria,black,87,country
+1221,Bulgaria,finish,72,country
+1222,Bulgaria,aromas,69,country
+1223,Bulgaria,lemon,39,country
+1224,Bulgaria,palate,38,country
+1225,Bulgaria,tannins,37,country
+1226,Bulgaria,red,34,country
+1227,Bulgaria,soft,29,country
+1228,Bulgaria,vanilla,27,country
+1229,Bulgaria,bulgarian,25,country
+1230,Bulgaria,mouth,25,country
+1231,Bulgaria,plum,25,country
+1232,Bulgaria,apple,22,country
+1233,Bulgaria,raspberry,22,country
+1234,Bulgaria,sauvignon,21,country
+1235,Bulgaria,acidity,20,country
+1236,Bulgaria,dried,20,country
+1237,Bulgaria,blackberry,19,country
+1238,Bulgaria,ripe,19,country
+1239,Bulgaria,cabernet,17,country
+1240,Bulgaria,nose,17,country
+1241,Bulgaria,tart,17,country
+1242,Bulgaria,blend,16,country
+1243,Bulgaria,pomegranate,16,country
+1244,Bulgaria,white,15,country
+1245,Bulgaria,green,14,country
+1246,Bulgaria,merlot,14,country
+1247,Bulgaria,clean,13,country
+1248,Bulgaria,freshly,13,country
+1249,Bulgaria,garnet,13,country
+1250,Bulgaria,notes,13,country
+1251,Bulgaria,touch,13,country
+1252,Bulgaria,bright,12,country
+1253,Bulgaria,fruit,12,country
+1254,Bulgaria,offers,12,country
+1255,Bulgaria,persistent,12,country
+1256,Bulgaria,blossom,11,country
+1257,Bulgaria,chardonnay,11,country
+1258,Bulgaria,mango,11,country
+1259,Bulgaria,tobacco,11,country
+1260,Bulgaria,zest,11,country
+1261,Bulgaria,citrus,10,country
+1262,Bulgaria,color,10,country
+1263,Bulgaria,cranberry,10,country
+1264,Bulgaria,crisp,10,country
+1265,Bulgaria,dark,10,country
+1266,Bulgaria,fresh,10,country
+1267,Bulgaria,pepper,10,country
+1268,Canada,flavors,87,country
+1269,Canada,fruit,68,country
+1270,Canada,finish,38,country
+1271,Canada,citrus,28,country
+1272,Canada,fresh,28,country
+1273,Canada,oak,25,country
+1274,Canada,notes,24,country
+1275,Canada,acidity,23,country
+1276,Canada,cherry,23,country
+1277,Canada,blend,21,country
+1278,Canada,tannins,21,country
+1279,Canada,cabernet,20,country
+1280,Canada,palate,20,country
+1281,Canada,rich,20,country
+1282,Canada,merlot,18,country
+1283,Canada,apple,17,country
+1284,Canada,barrel,17,country
+1285,Canada,honey,17,country
+1286,Canada,lemon,17,country
+1287,Canada,plum,17,country
+1288,Canada,dark,16,country
+1289,Canada,light,16,country
+1290,Canada,black,15,country
+1291,Canada,chocolate,15,country
+1292,Canada,drink,15,country
+1293,Canada,fruits,15,country
+1294,Canada,lime,15,country
+1295,Canada,aromas,14,country
+1296,Canada,ripe,14,country
+1297,Canada,sauvignon,14,country
+1298,Canada,dried,13,country
+1299,Canada,dry,13,country
+1300,Canada,mix,13,country
+1301,Canada,offers,13,country
+1302,Canada,peach,13,country
+1303,Canada,red,13,country
+1304,Canada,white,13,country
+1305,Canada,balance,12,country
+1306,Canada,caramel,12,country
+1307,Canada,franc,12,country
+1308,Canada,french,12,country
+1309,Canada,length,12,country
+1310,Canada,new,12,country
+1311,Canada,pear,12,country
+1312,Canada,riesling,12,country
+1313,Canada,spice,12,country
+1314,Canada,sweet,12,country
+1315,Canada,tart,12,country
+1316,Canada,bit,11,country
+1317,Canada,bordeauxstyle,11,country
+1318,Chile,flavors,2992,country
+1319,Chile,aromas,2404,country
+1320,Chile,finish,2298,country
+1321,Chile,palate,1715,country
+1322,Chile,berry,1221,country
+1323,Chile,plum,1006,country
+1324,Chile,herbal,995,country
+1325,Chile,fruit,866,country
+1326,Chile,nose,850,country
+1327,Chile,green,775,country
+1328,Chile,notes,741,country
+1329,Chile,oak,728,country
+1330,Chile,acidity,642,country
+1331,Chile,feels,576,country
+1332,Chile,cherry,551,country
+1333,Chile,citrus,516,country
+1334,Chile,drink,509,country
+1335,Chile,spice,498,country
+1336,Chile,fresh,492,country
+1337,Chile,good,482,country
+1338,Chile,blackberry,481,country
+1339,Chile,fruits,479,country
+1340,Chile,apple,477,country
+1341,Chile,black,455,country
+1342,Chile,cassis,442,country
+1343,Chile,blend,375,country
+1344,Chile,cabernet,363,country
+1345,Chile,spicy,362,country
+1346,Chile,feel,357,country
+1347,Chile,bit,354,country
+1348,Chile,tannins,347,country
+1349,Chile,raspberry,343,country
+1350,Chile,ripe,337,country
+1351,Chile,vanilla,335,country
+1352,Chile,chocolate,321,country
+1353,Chile,oaky,320,country
+1354,Chile,red,315,country
+1355,Chile,touch,314,country
+1356,Chile,sweet,310,country
+1357,Chile,pepper,309,country
+1358,Chile,mouth,303,country
+1359,Chile,tastes,300,country
+1360,Chile,earthy,296,country
+1361,Chile,herbs,287,country
+1362,Chile,melon,276,country
+1363,Chile,lime,274,country
+1364,Chile,tannic,271,country
+1365,Chile,baked,263,country
+1366,Chile,dry,262,country
+1367,Chile,solid,260,country
+1368,Croatia,palate,12,country
+1369,Croatia,nose,9,country
+1370,Croatia,blend,8,country
+1371,Croatia,finish,8,country
+1372,Croatia,croatian,7,country
+1373,Croatia,fruit,7,country
+1374,Croatia,red,7,country
+1375,Croatia,aromas,6,country
+1376,Croatia,tannins,6,country
+1377,Croatia,acidity,5,country
+1378,Croatia,black,5,country
+1379,Croatia,bright,4,country
+1380,Croatia,cherry,4,country
+1381,Croatia,flavors,4,country
+1382,Croatia,fresh,4,country
+1383,Croatia,notes,4,country
+1384,Croatia,pinot,4,country
+1385,Croatia,sweet,4,country
+1386,Croatia,vanilla,4,country
+1387,Croatia,balanced,3,country
+1388,Croatia,blanc,3,country
+1389,Croatia,bold,3,country
+1390,Croatia,grape,3,country
+1391,Croatia,hints,3,country
+1392,Croatia,interesting,3,country
+1393,Croatia,pleasant,3,country
+1394,Croatia,plum,3,country
+1395,Croatia,rich,3,country
+1396,Croatia,ripe,3,country
+1397,Croatia,savory,3,country
+1398,Croatia,spicy,3,country
+1399,Croatia,33,2,country
+1400,Croatia,abv,2,country
+1401,Croatia,add,2,country
+1402,Croatia,adds,2,country
+1403,Croatia,apple,2,country
+1404,Croatia,apricot,2,country
+1405,Croatia,big,2,country
+1406,Croatia,blackberry,2,country
+1407,Croatia,bodied,2,country
+1408,Croatia,bramble,2,country
+1409,Croatia,brisk,2,country
+1410,Croatia,butter,2,country
+1411,Croatia,cab,2,country
+1412,Croatia,concentrated,2,country
+1413,Croatia,deep,2,country
+1414,Croatia,dried,2,country
+1415,Croatia,earthy,2,country
+1416,Croatia,freshness,2,country
+1417,Croatia,gris,2,country
+1418,Cyprus,citrus,6,country
+1419,Cyprus,flavors,6,country
+1420,Cyprus,white,5,country
+1421,Cyprus,fresh,4,country
+1422,Cyprus,fruit,4,country
+1423,Cyprus,lead,4,country
+1424,Cyprus,nose,4,country
+1425,Cyprus,spice,4,country
+1426,Cyprus,balanced,3,country
+1427,Cyprus,cypriot,3,country
+1428,Cyprus,flowers,3,country
+1429,Cyprus,acidity,2,country
+1430,Cyprus,complex,2,country
+1431,Cyprus,cyprus,2,country
+1432,Cyprus,elegant,2,country
+1433,Cyprus,good,2,country
+1434,Cyprus,nut,2,country
+1435,Cyprus,offers,2,country
+1436,Cyprus,pair,2,country
+1437,Cyprus,refreshing,2,country
+1438,Cyprus,sip,2,country
+1439,Cyprus,touch,2,country
+1440,Cyprus,vanilla,2,country
+1441,Cyprus,alluring,1,country
+1442,Cyprus,appealing,1,country
+1443,Cyprus,apple,1,country
+1444,Cyprus,apples,1,country
+1445,Cyprus,aromas,1,country
+1446,Cyprus,assertive,1,country
+1447,Cyprus,backed,1,country
+1448,Cyprus,balance,1,country
+1449,Cyprus,black,1,country
+1450,Cyprus,blend,1,country
+1451,Cyprus,candied,1,country
+1452,Cyprus,character,1,country
+1453,Cyprus,cheeses,1,country
+1454,Cyprus,cherry,1,country
+1455,Cyprus,chrysorroyiatissa,1,country
+1456,Cyprus,class,1,country
+1457,Cyprus,clean,1,country
+1458,Cyprus,complexity,1,country
+1459,Cyprus,crisp,1,country
+1460,Cyprus,delicate,1,country
+1461,Cyprus,displays,1,country
+1462,Cyprus,easydrinking,1,country
+1463,Cyprus,easygoing,1,country
+1464,Cyprus,edge,1,country
+1465,Cyprus,fish,1,country
+1466,Cyprus,fleshy,1,country
+1467,Cyprus,floral,1,country
+1468,Czech Republic,flavors,4,country
+1469,Czech Republic,aromas,2,country
+1470,Czech Republic,black,2,country
+1471,Czech Republic,caramel,2,country
+1472,Czech Republic,cherry,2,country
+1473,Czech Republic,finish,2,country
+1474,Czech Republic,floral,2,country
+1475,Czech Republic,fruit,2,country
+1476,Czech Republic,mouth,2,country
+1477,Czech Republic,notes,2,country
+1478,Czech Republic,offers,2,country
+1479,Czech Republic,palate,2,country
+1480,Czech Republic,plum,2,country
+1481,Czech Republic,red,2,country
+1482,Czech Republic,spice,2,country
+1483,Czech Republic,toffee,2,country
+1484,Czech Republic,acidity,1,country
+1485,Czech Republic,anise,1,country
+1486,Czech Republic,balance,1,country
+1487,Czech Republic,blanc,1,country
+1488,Czech Republic,blend,1,country
+1489,Czech Republic,brisk,1,country
+1490,Czech Republic,burst,1,country
+1491,Czech Republic,characteristically,1,country
+1492,Czech Republic,chinese,1,country
+1493,Czech Republic,citrus,1,country
+1494,Czech Republic,clementine,1,country
+1495,Czech Republic,clove,1,country
+1496,Czech Republic,combination,1,country
+1497,Czech Republic,continue,1,country
+1498,Czech Republic,delicately,1,country
+1499,Czech Republic,dried,1,country
+1500,Czech Republic,drunk,1,country
+1501,Czech Republic,dry,1,country
+1502,Czech Republic,dusty,1,country
+1503,Czech Republic,featuring,1,country
+1504,Czech Republic,flavored,1,country
+1505,Czech Republic,freesia,1,country
+1506,Czech Republic,fresh,1,country
+1507,Czech Republic,grassy,1,country
+1508,Czech Republic,hazelnut,1,country
+1509,Czech Republic,herb,1,country
+1510,Czech Republic,hints,1,country
+1511,Czech Republic,honey,1,country
+1512,Czech Republic,joined,1,country
+1513,Czech Republic,lemon,1,country
+1514,Czech Republic,lilies,1,country
+1515,Czech Republic,lingers,1,country
+1516,Czech Republic,mineral,1,country
+1517,Czech Republic,mingle,1,country
+1518,England,palate,65,country
+1519,England,apple,53,country
+1520,England,nose,42,country
+1521,England,notes,42,country
+1522,England,freshness,40,country
+1523,England,lemon,33,country
+1524,England,tart,32,country
+1525,England,creamy,31,country
+1526,England,finish,30,country
+1527,England,fruit,29,country
+1528,England,crisp,24,country
+1529,England,fresh,22,country
+1530,England,mousse,21,country
+1531,England,autolysis,20,country
+1532,England,ripe,20,country
+1533,England,green,19,country
+1534,England,red,19,country
+1535,England,fine,18,country
+1536,England,flavors,16,country
+1537,England,lively,16,country
+1538,England,touch,16,country
+1539,England,brisk,15,country
+1540,England,bubbles,15,country
+1541,England,pure,15,country
+1542,England,elegant,14,country
+1543,England,appetizing,13,country
+1544,England,lasting,13,country
+1545,England,bright,12,country
+1546,England,generous,12,country
+1547,England,refreshing,12,country
+1548,England,golden,11,country
+1549,England,hints,11,country
+1550,England,notions,11,country
+1551,England,autolytic,10,country
+1552,England,harmonious,10,country
+1553,England,honey,10,country
+1554,England,play,10,country
+1555,England,richness,10,country
+1556,England,taut,10,country
+1557,England,tiny,10,country
+1558,England,depth,9,country
+1559,England,drink,9,country
+1560,England,exuberant,9,country
+1561,England,fizz,9,country
+1562,England,long,9,country
+1563,England,lovely,9,country
+1564,England,purity,9,country
+1565,England,white,9,country
+1566,England,wonderfully,9,country
+1567,England,core,8,country
+1568,France,drink,7040,country
+1569,France,acidity,6775,country
+1570,France,fruit,6055,country
+1571,France,ripe,5528,country
+1572,France,tannins,4883,country
+1573,France,fruits,4693,country
+1574,France,flavors,4626,country
+1575,France,rich,3346,country
+1576,France,character,2659,country
+1577,France,texture,2625,country
+1578,France,fresh,2574,country
+1579,France,fruity,2539,country
+1580,France,crisp,2453,country
+1581,France,red,2451,country
+1582,France,wood,2355,country
+1583,France,black,2331,country
+1584,France,dry,2230,country
+1585,France,structure,2167,country
+1586,France,soft,2152,country
+1587,France,juicy,1938,country
+1588,France,firm,1885,country
+1589,France,finish,1821,country
+1590,France,aging,1799,country
+1591,France,palate,1712,country
+1592,France,light,1705,country
+1593,France,spice,1681,country
+1594,France,ready,1632,country
+1595,France,age,1627,country
+1596,France,attractive,1495,country
+1597,France,bright,1464,country
+1598,France,years,1437,country
+1599,France,structured,1414,country
+1600,France,citrus,1328,country
+1601,France,dense,1324,country
+1602,France,balanced,1285,country
+1603,France,apple,1250,country
+1604,France,notes,1243,country
+1605,France,aftertaste,1213,country
+1606,France,dark,1205,country
+1607,France,concentrated,1186,country
+1608,France,fine,1169,country
+1609,France,freshness,1160,country
+1610,France,great,1139,country
+1611,France,touch,1138,country
+1612,France,berry,1133,country
+1613,France,shows,1116,country
+1614,France,fruitiness,1115,country
+1615,France,2018,1101,country
+1616,France,tight,1066,country
+1617,France,richness,1010,country
+1618,Georgia,flavors,12,country
+1619,Georgia,blend,8,country
+1620,Georgia,finish,8,country
+1621,Georgia,palate,7,country
+1622,Georgia,soft,7,country
+1623,Georgia,white,7,country
+1624,Georgia,lemon,6,country
+1625,Georgia,apple,5,country
+1626,Georgia,apricot,5,country
+1627,Georgia,bright,5,country
+1628,Georgia,grapes,5,country
+1629,Georgia,offers,5,country
+1630,Georgia,peach,5,country
+1631,Georgia,acidity,4,country
+1632,Georgia,aromas,4,country
+1633,Georgia,georgian,4,country
+1634,Georgia,mouth,4,country
+1635,Georgia,nose,4,country
+1636,Georgia,blueberry,3,country
+1637,Georgia,bouquet,3,country
+1638,Georgia,cherry,3,country
+1639,Georgia,citrus,3,country
+1640,Georgia,clementine,3,country
+1641,Georgia,dry,3,country
+1642,Georgia,guava,3,country
+1643,Georgia,notes,3,country
+1644,Georgia,refreshing,3,country
+1645,Georgia,rose,3,country
+1646,Georgia,sense,3,country
+1647,Georgia,touch,3,country
+1648,Georgia,blackberry,2,country
+1649,Georgia,brioche,2,country
+1650,Georgia,brisk,2,country
+1651,Georgia,chalkiness,2,country
+1652,Georgia,champenoise,2,country
+1653,Georgia,charmat,2,country
+1654,Georgia,chocolate,2,country
+1655,Georgia,color,2,country
+1656,Georgia,floral,2,country
+1657,Georgia,fresh,2,country
+1658,Georgia,fruit,2,country
+1659,Georgia,hint,2,country
+1660,Georgia,indigenous,2,country
+1661,Georgia,lavender,2,country
+1662,Georgia,melon,2,country
+1663,Georgia,method,2,country
+1664,Georgia,minerality,2,country
+1665,Georgia,méthode,2,country
+1666,Georgia,native,2,country
+1667,Georgia,nectarine,2,country
+1668,Germany,flavors,987,country
+1669,Germany,finish,921,country
+1670,Germany,riesling,834,country
+1671,Germany,palate,794,country
+1672,Germany,acidity,793,country
+1673,Germany,peach,565,country
+1674,Germany,notes,540,country
+1675,Germany,dry,476,country
+1676,Germany,sweet,444,country
+1677,Germany,mineral,422,country
+1678,Germany,long,411,country
+1679,Germany,tangerine,388,country
+1680,Germany,lime,381,country
+1681,Germany,lemon,366,country
+1682,Germany,ripe,364,country
+1683,Germany,fresh,357,country
+1684,Germany,drink,350,country
+1685,Germany,honey,345,country
+1686,Germany,fruit,335,country
+1687,Germany,apple,320,country
+1688,Germany,nose,275,country
+1689,Germany,fruity,251,country
+1690,Germany,aromas,245,country
+1691,Germany,offdry,242,country
+1692,Germany,grapefruit,236,country
+1693,Germany,juicy,236,country
+1694,Germany,lend,231,country
+1695,Germany,concentrated,226,country
+1696,Germany,white,225,country
+1697,Germany,citrus,222,country
+1698,Germany,delicate,222,country
+1699,Germany,style,222,country
+1700,Germany,zesty,218,country
+1701,Germany,crisp,208,country
+1702,Germany,minerality,208,country
+1703,Germany,hints,207,country
+1704,Germany,balanced,202,country
+1705,Germany,tones,201,country
+1706,Germany,yellow,194,country
+1707,Germany,intensely,191,country
+1708,Germany,brisk,189,country
+1709,Germany,finishes,185,country
+1710,Germany,stone,184,country
+1711,Germany,savory,183,country
+1712,Germany,rich,176,country
+1713,Germany,spice,172,country
+1714,Germany,smoke,163,country
+1715,Germany,apricot,160,country
+1716,Germany,lingering,156,country
+1717,Germany,crushed,148,country
+1718,Greece,fruit,119,country
+1719,Greece,red,110,country
+1720,Greece,spice,106,country
+1721,Greece,flavors,105,country
+1722,Greece,aromas,96,country
+1723,Greece,palate,92,country
+1724,Greece,white,82,country
+1725,Greece,blend,71,country
+1726,Greece,cherry,71,country
+1727,Greece,nose,62,country
+1728,Greece,fresh,57,country
+1729,Greece,pair,56,country
+1730,Greece,citrus,52,country
+1731,Greece,spicy,48,country
+1732,Greece,lemon,43,country
+1733,Greece,black,40,country
+1734,Greece,followed,40,country
+1735,Greece,vanilla,40,country
+1736,Greece,balanced,38,country
+1737,Greece,good,38,country
+1738,Greece,offers,37,country
+1739,Greece,pepper,36,country
+1740,Greece,character,35,country
+1741,Greece,lead,34,country
+1742,Greece,dishes,33,country
+1743,Greece,finish,33,country
+1744,Greece,elegant,31,country
+1745,Greece,start,30,country
+1746,Greece,acidity,29,country
+1747,Greece,touch,27,country
+1748,Greece,clean,26,country
+1749,Greece,exotic,26,country
+1750,Greece,flowers,25,country
+1751,Greece,cedar,23,country
+1752,Greece,cinnamon,23,country
+1753,Greece,rich,23,country
+1754,Greece,tropical,23,country
+1755,Greece,grilled,22,country
+1756,Greece,peach,22,country
+1757,Greece,floral,20,country
+1758,Greece,great,20,country
+1759,Greece,plum,20,country
+1760,Greece,strawberry,20,country
+1761,Greece,balance,19,country
+1762,Greece,dry,19,country
+1763,Greece,smoke,19,country
+1764,Greece,starts,19,country
+1765,Greece,everyday,18,country
+1766,Greece,notes,17,country
+1767,Greece,berry,16,country
+1768,Hungary,flavors,32,country
+1769,Hungary,cherry,25,country
+1770,Hungary,finish,22,country
+1771,Hungary,aromas,21,country
+1772,Hungary,palate,17,country
+1773,Hungary,black,16,country
+1774,Hungary,blend,15,country
+1775,Hungary,red,15,country
+1776,Hungary,hungarian,14,country
+1777,Hungary,peach,14,country
+1778,Hungary,apricot,12,country
+1779,Hungary,fresh,12,country
+1780,Hungary,white,12,country
+1781,Hungary,notes,10,country
+1782,Hungary,pear,10,country
+1783,Hungary,apple,9,country
+1784,Hungary,sweet,9,country
+1785,Hungary,tannins,9,country
+1786,Hungary,acidity,8,country
+1787,Hungary,fruit,8,country
+1788,Hungary,nose,8,country
+1789,Hungary,raspberry,8,country
+1790,Hungary,spice,8,country
+1791,Hungary,cabernet,7,country
+1792,Hungary,juice,7,country
+1793,Hungary,plum,7,country
+1794,Hungary,vanilla,7,country
+1795,Hungary,balanced,6,country
+1796,Hungary,furmint,6,country
+1797,Hungary,ripe,6,country
+1798,Hungary,blossom,5,country
+1799,Hungary,bright,5,country
+1800,Hungary,clean,5,country
+1801,Hungary,franc,5,country
+1802,Hungary,merlot,5,country
+1803,Hungary,mouth,5,country
+1804,Hungary,tart,5,country
+1805,Hungary,add,4,country
+1806,Hungary,balance,4,country
+1807,Hungary,berry,4,country
+1808,Hungary,citrus,4,country
+1809,Hungary,crisp,4,country
+1810,Hungary,dried,4,country
+1811,Hungary,dry,4,country
+1812,Hungary,good,4,country
+1813,Hungary,hárslevelu,4,country
+1814,Hungary,lemon,4,country
+1815,Hungary,minerality,4,country
+1816,Hungary,pomegranate,4,country
+1817,Hungary,soft,4,country
+1818,India,palate,3,country
+1819,India,finish,2,country
+1820,India,grapefruit,2,country
+1821,India,grass,2,country
+1822,India,apple,1,country
+1823,India,apricot,1,country
+1824,India,aromas,1,country
+1825,India,backed,1,country
+1826,India,barely,1,country
+1827,India,bright,1,country
+1828,India,buds,1,country
+1829,India,chopped,1,country
+1830,India,citrus,1,country
+1831,India,coriander,1,country
+1832,India,cut,1,country
+1833,India,eucalyptus,1,country
+1834,India,flavors,1,country
+1835,India,freshly,1,country
+1836,India,fruit,1,country
+1837,India,fullon,1,country
+1838,India,green,1,country
+1839,India,herbs,1,country
+1840,India,iodine,1,country
+1841,India,jolt,1,country
+1842,India,justmown,1,country
+1843,India,lemon,1,country
+1844,India,mark,1,country
+1845,India,nose,1,country
+1846,India,notes,1,country
+1847,India,offers,1,country
+1848,India,open,1,country
+1849,India,orange,1,country
+1850,India,parsley,1,country
+1851,India,passion,1,country
+1852,India,peach,1,country
+1853,India,peel,1,country
+1854,India,pink,1,country
+1855,India,pleasant,1,country
+1856,India,prepares,1,country
+1857,India,seed,1,country
+1858,India,taste,1,country
+1859,India,touch,1,country
+1860,India,unexpected,1,country
+1861,India,white,1,country
+1862,India,zesty,1,country
+1863,Israel,flavors,318,country
+1864,Israel,finish,273,country
+1865,Israel,cherry,271,country
+1866,Israel,black,233,country
+1867,Israel,tannins,211,country
+1868,Israel,aromas,150,country
+1869,Israel,palate,147,country
+1870,Israel,fruit,146,country
+1871,Israel,notes,131,country
+1872,Israel,pepper,93,country
+1873,Israel,nose,89,country
+1874,Israel,soft,89,country
+1875,Israel,offers,83,country
+1876,Israel,plum,82,country
+1877,Israel,blackberry,81,country
+1878,Israel,bright,81,country
+1879,Israel,bouquet,79,country
+1880,Israel,spice,79,country
+1881,Israel,raspberry,76,country
+1882,Israel,mouth,69,country
+1883,Israel,touch,66,country
+1884,Israel,red,64,country
+1885,Israel,acidity,61,country
+1886,Israel,cassis,57,country
+1887,Israel,dark,56,country
+1888,Israel,blend,53,country
+1889,Israel,green,52,country
+1890,Israel,chocolate,51,country
+1891,Israel,smooth,50,country
+1892,Israel,orange,48,country
+1893,Israel,meat,47,country
+1894,Israel,eucalyptus,44,country
+1895,Israel,vanilla,44,country
+1896,Israel,cranberry,42,country
+1897,Israel,blueberry,41,country
+1898,Israel,sweet,41,country
+1899,Israel,violet,41,country
+1900,Israel,white,41,country
+1901,Israel,drink,40,country
+1902,Israel,peach,40,country
+1903,Israel,ripe,40,country
+1904,Israel,cabernet,39,country
+1905,Israel,color,37,country
+1906,Israel,fresh,37,country
+1907,Israel,strawberry,37,country
+1908,Israel,deep,36,country
+1909,Israel,strong,36,country
+1910,Israel,glass,35,country
+1911,Israel,hint,35,country
+1912,Israel,lingering,35,country
+1913,Italy,aromas,6642,country
+1914,Italy,palate,6130,country
+1915,Italy,cherry,5459,country
+1916,Italy,tannins,5408,country
+1917,Italy,black,4245,country
+1918,Italy,offers,3274,country
+1919,Italy,fruit,3266,country
+1920,Italy,spice,3196,country
+1921,Italy,berry,2879,country
+1922,Italy,alongside,2690,country
+1923,Italy,red,2625,country
+1924,Italy,drink,2563,country
+1925,Italy,ripe,2244,country
+1926,Italy,opens,2067,country
+1927,Italy,acidity,1916,country
+1928,Italy,pepper,1865,country
+1929,Italy,blend,1838,country
+1930,Italy,finish,1765,country
+1931,Italy,dried,1759,country
+1932,Italy,licorice,1755,country
+1933,Italy,white,1701,country
+1934,Italy,leather,1699,country
+1935,Italy,delivers,1693,country
+1936,Italy,firm,1678,country
+1937,Italy,notes,1603,country
+1938,Italy,note,1561,country
+1939,Italy,plum,1491,country
+1940,Italy,bright,1463,country
+1941,Italy,oak,1452,country
+1942,Italy,flavors,1411,country
+1943,Italy,raspberry,1400,country
+1944,Italy,tobacco,1389,country
+1945,Italy,herb,1382,country
+1946,Italy,nose,1315,country
+1947,Italy,clove,1309,country
+1948,Italy,sangiovese,1301,country
+1949,Italy,fresh,1289,country
+1950,Italy,hint,1220,country
+1951,Italy,cabernet,1186,country
+1952,Italy,dark,1180,country
+1953,Italy,wild,1170,country
+1954,Italy,shows,1157,country
+1955,Italy,vanilla,1148,country
+1956,Italy,espresso,1126,country
+1957,Italy,whiff,1124,country
+1958,Italy,juicy,1117,country
+1959,Italy,lead,1114,country
+1960,Italy,merlot,1041,country
+1961,Italy,blackberry,1023,country
+1962,Italy,sauvignon,1016,country
+1963,Lebanon,flavors,26,country
+1964,Lebanon,blend,20,country
+1965,Lebanon,cherry,18,country
+1966,Lebanon,palate,17,country
+1967,Lebanon,finish,13,country
+1968,Lebanon,red,13,country
+1969,Lebanon,nose,12,country
+1970,Lebanon,tannins,12,country
+1971,Lebanon,spice,11,country
+1972,Lebanon,aromas,10,country
+1973,Lebanon,sauvignon,10,country
+1974,Lebanon,black,9,country
+1975,Lebanon,soft,9,country
+1976,Lebanon,syrah,9,country
+1977,Lebanon,acidity,8,country
+1978,Lebanon,fruit,8,country
+1979,Lebanon,ripe,8,country
+1980,Lebanon,15,7,country
+1981,Lebanon,cabernet,7,country
+1982,Lebanon,cinsault,7,country
+1983,Lebanon,grapefruit,7,country
+1984,Lebanon,peach,7,country
+1985,Lebanon,lemon,6,country
+1986,Lebanon,offers,6,country
+1987,Lebanon,orange,6,country
+1988,Lebanon,notes,5,country
+1989,Lebanon,30,4,country
+1990,Lebanon,35,4,country
+1991,Lebanon,almond,4,country
+1992,Lebanon,balance,4,country
+1993,Lebanon,blanc,4,country
+1994,Lebanon,chardonnay,4,country
+1995,Lebanon,chocolate,4,country
+1996,Lebanon,color,4,country
+1997,Lebanon,eye,4,country
+1998,Lebanon,glass,4,country
+1999,Lebanon,lebanese,4,country
+2000,Lebanon,lebanon,4,country
+2001,Lebanon,rich,4,country
+2002,Lebanon,rosé,4,country
+2003,Lebanon,viognier,4,country
+2004,Lebanon,violet,4,country
+2005,Lebanon,white,4,country
+2006,Lebanon,40,3,country
+2007,Lebanon,appeal,3,country
+2008,Lebanon,apple,3,country
+2009,Lebanon,berry,3,country
+2010,Lebanon,blackberry,3,country
+2011,Lebanon,bright,3,country
+2012,Lebanon,cassis,3,country
+2013,Luxembourg,lemon,5,country
+2014,Luxembourg,aromas,4,country
+2015,Luxembourg,flavors,4,country
+2016,Luxembourg,apple,3,country
+2017,Luxembourg,finish,3,country
+2018,Luxembourg,bean,2,country
+2019,Luxembourg,pear,2,country
+2020,Luxembourg,pinot,2,country
+2021,Luxembourg,pith,2,country
+2022,Luxembourg,sparkling,2,country
+2023,Luxembourg,vanilla,2,country
+2024,Luxembourg,white,2,country
+2025,Luxembourg,zest,2,country
+2026,Luxembourg,10,1,country
+2027,Luxembourg,40,1,country
+2028,Luxembourg,50,1,country
+2029,Luxembourg,auxerrois,1,country
+2030,Luxembourg,baked,1,country
+2031,Luxembourg,balanced,1,country
+2032,Luxembourg,bartlett,1,country
+2033,Luxembourg,blanc,1,country
+2034,Luxembourg,blend,1,country
+2035,Luxembourg,brioche,1,country
+2036,Luxembourg,bubbles,1,country
+2037,Luxembourg,composed,1,country
+2038,Luxembourg,creamy,1,country
+2039,Luxembourg,crust,1,country
+2040,Luxembourg,curd,1,country
+2041,Luxembourg,flakey,1,country
+2042,Luxembourg,floral,1,country
+2043,Luxembourg,freshly,1,country
+2044,Luxembourg,fruit,1,country
+2045,Luxembourg,good,1,country
+2046,Luxembourg,granny,1,country
+2047,Luxembourg,grapefruit,1,country
+2048,Luxembourg,green,1,country
+2049,Luxembourg,gris,1,country
+2050,Luxembourg,juice,1,country
+2051,Luxembourg,level,1,country
+2052,Luxembourg,marzipan,1,country
+2053,Luxembourg,mousse,1,country
+2054,Luxembourg,nice,1,country
+2055,Luxembourg,nicely,1,country
+2056,Luxembourg,non,1,country
+2057,Luxembourg,orange,1,country
+2058,Luxembourg,pastry,1,country
+2059,Luxembourg,persist,1,country
+2060,Luxembourg,pie,1,country
+2061,Luxembourg,pleasantly,1,country
+2062,Luxembourg,riesling,1,country
+2063,Macedonia,fruity,4,country
+2064,Macedonia,spice,4,country
+2065,Macedonia,flavors,3,country
+2066,Macedonia,nose,3,country
+2067,Macedonia,pair,3,country
+2068,Macedonia,vanilla,3,country
+2069,Macedonia,appealing,2,country
+2070,Macedonia,aromas,2,country
+2071,Macedonia,blend,2,country
+2072,Macedonia,bodied,2,country
+2073,Macedonia,chardonnay,2,country
+2074,Macedonia,cheeses,2,country
+2075,Macedonia,cherry,2,country
+2076,Macedonia,fresh,2,country
+2077,Macedonia,noir,2,country
+2078,Macedonia,offers,2,country
+2079,Macedonia,pinot,2,country
+2080,Macedonia,acid,1,country
+2081,Macedonia,alexander,1,country
+2082,Macedonia,array,1,country
+2083,Macedonia,autumn,1,country
+2084,Macedonia,backed,1,country
+2085,Macedonia,berries,1,country
+2086,Macedonia,blackcherry,1,country
+2087,Macedonia,bright,1,country
+2088,Macedonia,character,1,country
+2089,Macedonia,complex,1,country
+2090,Macedonia,concentration,1,country
+2091,Macedonia,cranberry,1,country
+2092,Macedonia,dark,1,country
+2093,Macedonia,day,1,country
+2094,Macedonia,delivers,1,country
+2095,Macedonia,doesnt,1,country
+2096,Macedonia,dry,1,country
+2097,Macedonia,easydrinking,1,country
+2098,Macedonia,elegant,1,country
+2099,Macedonia,enticing,1,country
+2100,Macedonia,finish,1,country
+2101,Macedonia,fish,1,country
+2102,Macedonia,followed,1,country
+2103,Macedonia,fruit,1,country
+2104,Macedonia,fullbodied,1,country
+2105,Macedonia,garnetcolored,1,country
+2106,Macedonia,greatthe,1,country
+2107,Macedonia,hints,1,country
+2108,Macedonia,hot,1,country
+2109,Macedonia,lavender,1,country
+2110,Macedonia,leaf,1,country
+2111,Macedonia,lot,1,country
+2112,Macedonia,lush,1,country
+2113,Mexico,flavors,45,country
+2114,Mexico,aromas,39,country
+2115,Mexico,finish,29,country
+2116,Mexico,palate,18,country
+2117,Mexico,berry,17,country
+2118,Mexico,cherry,14,country
+2119,Mexico,nose,14,country
+2120,Mexico,plum,13,country
+2121,Mexico,sauvignon,12,country
+2122,Mexico,baked,11,country
+2123,Mexico,blend,11,country
+2124,Mexico,spice,11,country
+2125,Mexico,apple,10,country
+2126,Mexico,melon,10,country
+2127,Mexico,sweet,10,country
+2128,Mexico,cabernet,9,country
+2129,Mexico,dry,9,country
+2130,Mexico,heavy,9,country
+2131,Mexico,oak,9,country
+2132,Mexico,raspberry,9,country
+2133,Mexico,feels,8,country
+2134,Mexico,fruit,8,country
+2135,Mexico,herbal,8,country
+2136,Mexico,notes,8,country
+2137,Mexico,blanc,7,country
+2138,Mexico,chocolate,7,country
+2139,Mexico,good,7,country
+2140,Mexico,pear,7,country
+2141,Mexico,rich,7,country
+2142,Mexico,acidity,6,country
+2143,Mexico,black,6,country
+2144,Mexico,coffee,6,country
+2145,Mexico,fiery,6,country
+2146,Mexico,hard,6,country
+2147,Mexico,merlot,6,country
+2148,Mexico,roasted,6,country
+2149,Mexico,tannins,6,country
+2150,Mexico,theres,6,country
+2151,Mexico,thick,6,country
+2152,Mexico,touch,6,country
+2153,Mexico,vanilla,6,country
+2154,Mexico,blackberry,5,country
+2155,Mexico,cassis,5,country
+2156,Mexico,dark,5,country
+2157,Mexico,earthy,5,country
+2158,Mexico,finishes,5,country
+2159,Mexico,flavor,5,country
+2160,Mexico,fruits,5,country
+2161,Mexico,green,5,country
+2162,Mexico,leafy,5,country
+2163,Moldova,flavors,31,country
+2164,Moldova,black,29,country
+2165,Moldova,aromas,25,country
+2166,Moldova,finish,23,country
+2167,Moldova,cherry,20,country
+2168,Moldova,plum,16,country
+2169,Moldova,blend,14,country
+2170,Moldova,lemon,13,country
+2171,Moldova,mouth,13,country
+2172,Moldova,raspberry,13,country
+2173,Moldova,sauvignon,12,country
+2174,Moldova,vanilla,12,country
+2175,Moldova,cabernet,11,country
+2176,Moldova,red,11,country
+2177,Moldova,palate,10,country
+2178,Moldova,dried,9,country
+2179,Moldova,offers,9,country
+2180,Moldova,sweet,9,country
+2181,Moldova,tannins,9,country
+2182,Moldova,apple,8,country
+2183,Moldova,neagra,8,country
+2184,Moldova,nose,8,country
+2185,Moldova,touch,8,country
+2186,Moldova,merlot,7,country
+2187,Moldova,moldovan,7,country
+2188,Moldova,pineapple,7,country
+2189,Moldova,rara,7,country
+2190,Moldova,white,7,country
+2191,Moldova,persistent,6,country
+2192,Moldova,spice,6,country
+2193,Moldova,5,5,country
+2194,Moldova,50,5,country
+2195,Moldova,fresh,5,country
+2196,Moldova,fruit,5,country
+2197,Moldova,malbec,5,country
+2198,Moldova,peach,5,country
+2199,Moldova,pie,5,country
+2200,Moldova,pinot,5,country
+2201,Moldova,saperavi,5,country
+2202,Moldova,balanced,4,country
+2203,Moldova,chocolate,4,country
+2204,Moldova,crisp,4,country
+2205,Moldova,dark,4,country
+2206,Moldova,grapefruit,4,country
+2207,Moldova,nice,4,country
+2208,Moldova,plums,4,country
+2209,Moldova,smoked,4,country
+2210,Moldova,theres,4,country
+2211,Moldova,zest,4,country
+2212,Moldova,15,3,country
+2213,Morocco,flavors,21,country
+2214,Morocco,cherry,20,country
+2215,Morocco,finish,17,country
+2216,Morocco,tannins,13,country
+2217,Morocco,bright,11,country
+2218,Morocco,black,10,country
+2219,Morocco,palate,10,country
+2220,Morocco,aromas,8,country
+2221,Morocco,fruit,8,country
+2222,Morocco,peach,8,country
+2223,Morocco,smooth,8,country
+2224,Morocco,chocolate,6,country
+2225,Morocco,cranberry,6,country
+2226,Morocco,lead,6,country
+2227,Morocco,floral,5,country
+2228,Morocco,lemon,5,country
+2229,Morocco,nose,5,country
+2230,Morocco,petal,5,country
+2231,Morocco,rose,5,country
+2232,Morocco,soft,5,country
+2233,Morocco,zest,5,country
+2234,Morocco,blackberry,4,country
+2235,Morocco,blend,4,country
+2236,Morocco,bouquet,4,country
+2237,Morocco,eye,4,country
+2238,Morocco,hint,4,country
+2239,Morocco,menthol,4,country
+2240,Morocco,mouth,4,country
+2241,Morocco,orange,4,country
+2242,Morocco,red,4,country
+2243,Morocco,savory,4,country
+2244,Morocco,tart,4,country
+2245,Morocco,touch,4,country
+2246,Morocco,white,4,country
+2247,Morocco,30,3,country
+2248,Morocco,apricot,3,country
+2249,Morocco,cabernet,3,country
+2250,Morocco,cassis,3,country
+2251,Morocco,citrus,3,country
+2252,Morocco,deep,3,country
+2253,Morocco,eucalyptus,3,country
+2254,Morocco,features,3,country
+2255,Morocco,glass,3,country
+2256,Morocco,green,3,country
+2257,Morocco,lingering,3,country
+2258,Morocco,offers,3,country
+2259,Morocco,pepper,3,country
+2260,Morocco,pineapple,3,country
+2261,Morocco,pomegranate,3,country
+2262,Morocco,sauvignon,3,country
+2263,New Zealand,finish,661,country
+2264,New Zealand,fruit,605,country
+2265,New Zealand,drink,494,country
+2266,New Zealand,notes,455,country
+2267,New Zealand,flavors,441,country
+2268,New Zealand,aromas,290,country
+2269,New Zealand,palate,269,country
+2270,New Zealand,hints,267,country
+2271,New Zealand,pinot,267,country
+2272,New Zealand,cherry,245,country
+2273,New Zealand,long,243,country
+2274,New Zealand,sauvignon,208,country
+2275,New Zealand,mediumbodied,207,country
+2276,New Zealand,citrus,196,country
+2277,New Zealand,slightly,190,country
+2278,New Zealand,ripe,186,country
+2279,New Zealand,grapefruit,172,country
+2280,New Zealand,texture,171,country
+2281,New Zealand,bit,161,country
+2282,New Zealand,blanc,161,country
+2283,New Zealand,noir,154,country
+2284,New Zealand,herbal,153,country
+2285,New Zealand,crisp,151,country
+2286,New Zealand,tannins,149,country
+2287,New Zealand,marlborough,144,country
+2288,New Zealand,silky,141,country
+2289,New Zealand,nose,136,country
+2290,New Zealand,melon,134,country
+2291,New Zealand,green,126,country
+2292,New Zealand,oak,122,country
+2293,New Zealand,pineapple,122,country
+2294,New Zealand,medium,119,country
+2295,New Zealand,style,115,country
+2296,New Zealand,black,114,country
+2297,New Zealand,years,104,country
+2298,New Zealand,ample,100,country
+2299,New Zealand,weight,98,country
+2300,New Zealand,vanilla,96,country
+2301,New Zealand,cherries,95,country
+2302,New Zealand,stone,92,country
+2303,New Zealand,passion,90,country
+2304,New Zealand,spice,89,country
+2305,New Zealand,dry,88,country
+2306,New Zealand,tart,87,country
+2307,New Zealand,fresh,85,country
+2308,New Zealand,mouthwatering,84,country
+2309,New Zealand,shows,84,country
+2310,New Zealand,supple,84,country
+2311,New Zealand,dark,81,country
+2312,New Zealand,offers,81,country
+2313,Peru,flavors,11,country
+2314,Peru,aromas,8,country
+2315,Peru,baked,5,country
+2316,Peru,finish,5,country
+2317,Peru,palate,5,country
+2318,Peru,berry,4,country
+2319,Peru,fruit,4,country
+2320,Peru,mouth,4,country
+2321,Peru,notes,4,country
+2322,Peru,sauvignon,4,country
+2323,Peru,apple,3,country
+2324,Peru,citrus,3,country
+2325,Peru,malbec,3,country
+2326,Peru,oaky,3,country
+2327,Peru,pithy,3,country
+2328,Peru,plum,3,country
+2329,Peru,bite,2,country
+2330,Peru,blanc,2,country
+2331,Peru,blend,2,country
+2332,Peru,cabernet,2,country
+2333,Peru,candied,2,country
+2334,Peru,chocolate,2,country
+2335,Peru,earthy,2,country
+2336,Peru,end,2,country
+2337,Peru,ham,2,country
+2338,Peru,heavy,2,country
+2339,Peru,hint,2,country
+2340,Peru,like,2,country
+2341,Peru,oak,2,country
+2342,Peru,orange,2,country
+2343,Peru,peruvian,2,country
+2344,Peru,petit,2,country
+2345,Peru,raspberry,2,country
+2346,Peru,red,2,country
+2347,Peru,sweet,2,country
+2348,Peru,syrah,2,country
+2349,Peru,tannat,2,country
+2350,Peru,tannic,2,country
+2351,Peru,tastes,2,country
+2352,Peru,thats,2,country
+2353,Peru,vanilla,2,country
+2354,Peru,verdot,2,country
+2355,Peru,100,1,country
+2356,Peru,40,1,country
+2357,Peru,60,1,country
+2358,Peru,acidity,1,country
+2359,Peru,acids,1,country
+2360,Peru,aftertaste,1,country
+2361,Peru,animal,1,country
+2362,Peru,applesauce,1,country
+2363,Portugal,drink,1717,country
+2364,Portugal,tannins,1641,country
+2365,Portugal,acidity,1329,country
+2366,Portugal,fruits,1318,country
+2367,Portugal,ripe,1144,country
+2368,Portugal,fruit,999,country
+2369,Portugal,black,909,country
+2370,Portugal,rich,865,country
+2371,Portugal,flavors,742,country
+2372,Portugal,juicy,603,country
+2373,Portugal,aging,597,country
+2374,Portugal,red,584,country
+2375,Portugal,wood,559,country
+2376,Portugal,soft,558,country
+2377,Portugal,structure,555,country
+2378,Portugal,fruity,552,country
+2379,Portugal,ready,536,country
+2380,Portugal,firm,523,country
+2381,Portugal,dark,487,country
+2382,Portugal,dense,487,country
+2383,Portugal,character,469,country
+2384,Portugal,blend,453,country
+2385,Portugal,berry,423,country
+2386,Portugal,texture,410,country
+2387,Portugal,structured,383,country
+2388,Portugal,dry,378,country
+2389,Portugal,age,356,country
+2390,Portugal,spice,354,country
+2391,Portugal,concentrated,345,country
+2392,Portugal,fresh,329,country
+2393,Portugal,touriga,307,country
+2394,Portugal,2018,302,country
+2395,Portugal,smooth,302,country
+2396,Portugal,young,298,country
+2397,Portugal,powerful,297,country
+2398,Portugal,nacional,267,country
+2399,Portugal,years,265,country
+2400,Portugal,2017,261,country
+2401,Portugal,solid,261,country
+2402,Portugal,douro,257,country
+2403,Portugal,light,256,country
+2404,Portugal,plum,254,country
+2405,Portugal,balanced,253,country
+2406,Portugal,aftertaste,235,country
+2407,Portugal,attractive,233,country
+2408,Portugal,generous,228,country
+2409,Portugal,fine,221,country
+2410,Portugal,great,218,country
+2411,Portugal,blackberry,217,country
+2412,Portugal,crisp,217,country
+2413,Romania,flavors,56,country
+2414,Romania,cherry,50,country
+2415,Romania,finish,38,country
+2416,Romania,aromas,32,country
+2417,Romania,black,32,country
+2418,Romania,palate,28,country
+2419,Romania,red,26,country
+2420,Romania,plum,21,country
+2421,Romania,nose,20,country
+2422,Romania,acidity,18,country
+2423,Romania,romanian,18,country
+2424,Romania,tannins,17,country
+2425,Romania,lemon,16,country
+2426,Romania,apple,13,country
+2427,Romania,notes,13,country
+2428,Romania,sauvignon,13,country
+2429,Romania,vanilla,13,country
+2430,Romania,fruit,12,country
+2431,Romania,green,12,country
+2432,Romania,ripe,12,country
+2433,Romania,cabernet,11,country
+2434,Romania,soft,11,country
+2435,Romania,balanced,10,country
+2436,Romania,merlot,10,country
+2437,Romania,noir,10,country
+2438,Romania,pinot,10,country
+2439,Romania,tart,10,country
+2440,Romania,touch,10,country
+2441,Romania,white,10,country
+2442,Romania,bright,9,country
+2443,Romania,concentrated,9,country
+2444,Romania,fresh,9,country
+2445,Romania,mouth,9,country
+2446,Romania,offers,9,country
+2447,Romania,spice,9,country
+2448,Romania,berry,8,country
+2449,Romania,bodied,8,country
+2450,Romania,dry,8,country
+2451,Romania,flowers,8,country
+2452,Romania,good,7,country
+2453,Romania,medium,7,country
+2454,Romania,pair,7,country
+2455,Romania,peach,7,country
+2456,Romania,pear,7,country
+2457,Romania,blanc,6,country
+2458,Romania,blend,6,country
+2459,Romania,bouquet,6,country
+2460,Romania,chardonnay,6,country
+2461,Romania,feteasca,6,country
+2462,Romania,hints,6,country
+2463,Serbia,finish,3,country
+2464,Serbia,flavors,3,country
+2465,Serbia,green,3,country
+2466,Serbia,lemon,3,country
+2467,Serbia,red,3,country
+2468,Serbia,40,2,country
+2469,Serbia,60,2,country
+2470,Serbia,aromas,2,country
+2471,Serbia,black,2,country
+2472,Serbia,blackberry,2,country
+2473,Serbia,blend,2,country
+2474,Serbia,cabernet,2,country
+2475,Serbia,cherry,2,country
+2476,Serbia,leather,2,country
+2477,Serbia,olive,2,country
+2478,Serbia,palate,2,country
+2479,Serbia,petrol,2,country
+2480,Serbia,prokupac,2,country
+2481,Serbia,sauvignon,2,country
+2482,Serbia,serbian,2,country
+2483,Serbia,white,2,country
+2484,Serbia,aged,1,country
+2485,Serbia,apple,1,country
+2486,Serbia,bodied,1,country
+2487,Serbia,bold,1,country
+2488,Serbia,brown,1,country
+2489,Serbia,colored,1,country
+2490,Serbia,cranberry,1,country
+2491,Serbia,custard,1,country
+2492,Serbia,elegant,1,country
+2493,Serbia,eucalyptus,1,country
+2494,Serbia,filled,1,country
+2495,Serbia,flowers,1,country
+2496,Serbia,fruit,1,country
+2497,Serbia,fruits,1,country
+2498,Serbia,generous,1,country
+2499,Serbia,gold,1,country
+2500,Serbia,greet,1,country
+2501,Serbia,lingering,1,country
+2502,Serbia,long,1,country
+2503,Serbia,medium,1,country
+2504,Serbia,mouth,1,country
+2505,Serbia,nose,1,country
+2506,Serbia,peach,1,country
+2507,Serbia,peel,1,country
+2508,Serbia,pepper,1,country
+2509,Serbia,pith,1,country
+2510,Serbia,pleasant,1,country
+2511,Serbia,pomegranate,1,country
+2512,Serbia,riesling,1,country
+2513,Slovakia,honey,3,country
+2514,Slovakia,palate,2,country
+2515,Slovakia,acidity,1,country
+2516,Slovakia,apples,1,country
+2517,Slovakia,astringency,1,country
+2518,Slovakia,balanced,1,country
+2519,Slovakia,bracing,1,country
+2520,Slovakia,delicious,1,country
+2521,Slovakia,dry,1,country
+2522,Slovakia,finish,1,country
+2523,Slovakia,fullbodied,1,country
+2524,Slovakia,gripping,1,country
+2525,Slovakia,lead,1,country
+2526,Slovakia,lime,1,country
+2527,Slovakia,luscious,1,country
+2528,Slovakia,petrol,1,country
+2529,Slovakia,rich,1,country
+2530,Slovakia,scents,1,country
+2531,Slovakia,skin,1,country
+2532,Slovakia,smoke,1,country
+2533,Slovakia,tones,1,country
+2534,Slovenia,flavors,35,country
+2535,Slovenia,aromas,27,country
+2536,Slovenia,finish,25,country
+2537,Slovenia,lemon,22,country
+2538,Slovenia,cherry,18,country
+2539,Slovenia,black,17,country
+2540,Slovenia,acidity,13,country
+2541,Slovenia,red,13,country
+2542,Slovenia,apple,12,country
+2543,Slovenia,blend,11,country
+2544,Slovenia,freshly,11,country
+2545,Slovenia,mouth,11,country
+2546,Slovenia,palate,11,country
+2547,Slovenia,dried,10,country
+2548,Slovenia,grass,10,country
+2549,Slovenia,raspberry,10,country
+2550,Slovenia,sauvignon,8,country
+2551,Slovenia,savory,8,country
+2552,Slovenia,cabernet,7,country
+2553,Slovenia,long,7,country
+2554,Slovenia,nose,7,country
+2555,Slovenia,pinot,7,country
+2556,Slovenia,bright,6,country
+2557,Slovenia,clean,6,country
+2558,Slovenia,entry,6,country
+2559,Slovenia,grapefruit,6,country
+2560,Slovenia,notes,6,country
+2561,Slovenia,peach,6,country
+2562,Slovenia,pear,6,country
+2563,Slovenia,pleasant,6,country
+2564,Slovenia,slovenian,6,country
+2565,Slovenia,soft,6,country
+2566,Slovenia,touch,6,country
+2567,Slovenia,white,6,country
+2568,Slovenia,chardonnay,5,country
+2569,Slovenia,color,5,country
+2570,Slovenia,fruit,5,country
+2571,Slovenia,green,5,country
+2572,Slovenia,juice,5,country
+2573,Slovenia,lime,5,country
+2574,Slovenia,note,5,country
+2575,Slovenia,orange,5,country
+2576,Slovenia,pineapple,5,country
+2577,Slovenia,plum,5,country
+2578,Slovenia,smoke,5,country
+2579,Slovenia,smooth,5,country
+2580,Slovenia,sweet,5,country
+2581,Slovenia,tannins,5,country
+2582,Slovenia,zest,5,country
+2583,Slovenia,30,4,country
+2584,South Africa,flavors,454,country
+2585,South Africa,finish,445,country
+2586,South Africa,palate,397,country
+2587,South Africa,fruit,365,country
+2588,South Africa,notes,331,country
+2589,South Africa,spice,315,country
+2590,South Africa,aromas,298,country
+2591,South Africa,drink,286,country
+2592,South Africa,nose,261,country
+2593,South Africa,black,247,country
+2594,South Africa,tannins,229,country
+2595,South Africa,plum,207,country
+2596,South Africa,acidity,204,country
+2597,South Africa,fresh,187,country
+2598,South Africa,ripe,168,country
+2599,South Africa,cherry,165,country
+2600,South Africa,red,163,country
+2601,South Africa,blend,157,country
+2602,South Africa,mouth,157,country
+2603,South Africa,apple,147,country
+2604,South Africa,balanced,145,country
+2605,South Africa,clean,140,country
+2606,South Africa,offers,139,country
+2607,South Africa,sweet,133,country
+2608,South Africa,soft,128,country
+2609,South Africa,white,124,country
+2610,South Africa,cabernet,123,country
+2611,South Africa,green,120,country
+2612,South Africa,berry,117,country
+2613,South Africa,pepper,117,country
+2614,South Africa,character,113,country
+2615,South Africa,citrus,111,country
+2616,South Africa,long,110,country
+2617,South Africa,rich,108,country
+2618,South Africa,touch,99,country
+2619,South Africa,spicy,98,country
+2620,South Africa,good,95,country
+2621,South Africa,texture,95,country
+2622,South Africa,medium,89,country
+2623,South Africa,sauvignon,86,country
+2624,South Africa,elegant,84,country
+2625,South Africa,mediumweight,84,country
+2626,South Africa,orange,83,country
+2627,South Africa,mouthfeel,82,country
+2628,South Africa,bright,81,country
+2629,South Africa,close,81,country
+2630,South Africa,licorice,81,country
+2631,South Africa,peach,81,country
+2632,South Africa,core,80,country
+2633,South Africa,theres,79,country
+2634,Spain,flavors,2886,country
+2635,Spain,aromas,2355,country
+2636,Spain,finish,2180,country
+2637,Spain,palate,1551,country
+2638,Spain,berry,1291,country
+2639,Spain,plum,1176,country
+2640,Spain,drink,823,country
+2641,Spain,notes,682,country
+2642,Spain,oak,664,country
+2643,Spain,nose,660,country
+2644,Spain,feels,658,country
+2645,Spain,cherry,652,country
+2646,Spain,fruit,627,country
+2647,Spain,blackberry,556,country
+2648,Spain,spice,525,country
+2649,Spain,acidity,518,country
+2650,Spain,fresh,515,country
+2651,Spain,apple,513,country
+2652,Spain,blend,489,country
+2653,Spain,black,458,country
+2654,Spain,good,450,country
+2655,Spain,ripe,448,country
+2656,Spain,tannins,447,country
+2657,Spain,vanilla,439,country
+2658,Spain,fruits,431,country
+2659,Spain,raspberry,430,country
+2660,Spain,herbal,417,country
+2661,Spain,dry,415,country
+2662,Spain,red,387,country
+2663,Spain,tannic,386,country
+2664,Spain,earthy,382,country
+2665,Spain,baked,353,country
+2666,Spain,citrus,333,country
+2667,Spain,chocolate,314,country
+2668,Spain,green,298,country
+2669,Spain,bit,294,country
+2670,Spain,feel,292,country
+2671,Spain,sweet,291,country
+2672,Spain,oaky,290,country
+2673,Spain,toasty,280,country
+2674,Spain,mouth,277,country
+2675,Spain,like,276,country
+2676,Spain,tastes,271,country
+2677,Spain,dark,268,country
+2678,Spain,spicy,262,country
+2679,Spain,touch,258,country
+2680,Spain,come,247,country
+2681,Spain,tight,244,country
+2682,Spain,tempranillo,237,country
+2683,Spain,mild,235,country
+2684,Switzerland,cherry,5,country
+2685,Switzerland,flavors,3,country
+2686,Switzerland,nose,3,country
+2687,Switzerland,soft,3,country
+2688,Switzerland,balanced,2,country
+2689,Switzerland,bouquet,2,country
+2690,Switzerland,finish,2,country
+2691,Switzerland,notes,2,country
+2692,Switzerland,red,2,country
+2693,Switzerland,tart,2,country
+2694,Switzerland,vanilla,2,country
+2695,Switzerland,acidity,1,country
+2696,Switzerland,apple,1,country
+2697,Switzerland,bell,1,country
+2698,Switzerland,berry,1,country
+2699,Switzerland,blackberry,1,country
+2700,Switzerland,bodied,1,country
+2701,Switzerland,brown,1,country
+2702,Switzerland,cinnamon,1,country
+2703,Switzerland,cobbler,1,country
+2704,Switzerland,cohesion,1,country
+2705,Switzerland,condensed,1,country
+2706,Switzerland,creamy,1,country
+2707,Switzerland,dried,1,country
+2708,Switzerland,exhibits,1,country
+2709,Switzerland,farmstand,1,country
+2710,Switzerland,firm,1,country
+2711,Switzerland,flavor,1,country
+2712,Switzerland,followed,1,country
+2713,Switzerland,fruit,1,country
+2714,Switzerland,good,1,country
+2715,Switzerland,green,1,country
+2716,Switzerland,hints,1,country
+2717,Switzerland,interlaced,1,country
+2718,Switzerland,lemon,1,country
+2719,Switzerland,little,1,country
+2720,Switzerland,merlot,1,country
+2721,Switzerland,mouth,1,country
+2722,Switzerland,mélange,1,country
+2723,Switzerland,needs,1,country
+2724,Switzerland,nuance,1,country
+2725,Switzerland,nutmeg,1,country
+2726,Switzerland,offering,1,country
+2727,Switzerland,overall,1,country
+2728,Switzerland,palate,1,country
+2729,Switzerland,pepper,1,country
+2730,Switzerland,persistent,1,country
+2731,Switzerland,petrol,1,country
+2732,Switzerland,pith,1,country
+2733,Switzerland,plum,1,country
+2734,Turkey,flavors,33,country
+2735,Turkey,cherry,29,country
+2736,Turkey,tannins,24,country
+2737,Turkey,finish,23,country
+2738,Turkey,aromas,15,country
+2739,Turkey,black,14,country
+2740,Turkey,palate,13,country
+2741,Turkey,blend,12,country
+2742,Turkey,blackberry,11,country
+2743,Turkey,offers,10,country
+2744,Turkey,acidity,9,country
+2745,Turkey,bright,9,country
+2746,Turkey,cabernet,9,country
+2747,Turkey,orange,9,country
+2748,Turkey,smooth,9,country
+2749,Turkey,strawberry,9,country
+2750,Turkey,violet,9,country
+2751,Turkey,pomegranate,8,country
+2752,Turkey,clove,7,country
+2753,Turkey,color,7,country
+2754,Turkey,deep,7,country
+2755,Turkey,notes,7,country
+2756,Turkey,pepper,7,country
+2757,Turkey,syrah,7,country
+2758,Turkey,touch,7,country
+2759,Turkey,anise,6,country
+2760,Turkey,bouquet,6,country
+2761,Turkey,merlot,6,country
+2762,Turkey,raspberry,6,country
+2763,Turkey,red,6,country
+2764,Turkey,sauvignon,6,country
+2765,Turkey,set,6,country
+2766,Turkey,tart,6,country
+2767,Turkey,eucalyptus,5,country
+2768,Turkey,eye,5,country
+2769,Turkey,fruit,5,country
+2770,Turkey,grapes,5,country
+2771,Turkey,hint,5,country
+2772,Turkey,mocha,5,country
+2773,Turkey,refreshing,5,country
+2774,Turkey,soft,5,country
+2775,Turkey,turkish,5,country
+2776,Turkey,zest,5,country
+2777,Turkey,öküzgözü,5,country
+2778,Turkey,bean,4,country
+2779,Turkey,blossom,4,country
+2780,Turkey,blueberry,4,country
+2781,Turkey,bogazkere,4,country
+2782,Turkey,brightness,4,country
+2783,Turkey,burst,4,country
+2784,US,flavors,24232,country
+2785,US,fruit,14787,country
+2786,US,cherry,10488,country
+2787,US,finish,9257,country
+2788,US,black,8638,country
+2789,US,palate,8625,country
+2790,US,tannins,8599,country
+2791,US,acidity,8483,country
+2792,US,oak,8364,country
+2793,US,aromas,8208,country
+2794,US,dry,6439,country
+2795,US,ripe,6364,country
+2796,US,rich,5768,country
+2797,US,cabernet,5682,country
+2798,US,red,5570,country
+2799,US,notes,5103,country
+2800,US,sweet,5100,country
+2801,US,nose,5097,country
+2802,US,blackberry,4801,country
+2803,US,drink,4671,country
+2804,US,blend,4628,country
+2805,US,shows,4587,country
+2806,US,spice,4453,country
+2807,US,soft,4437,country
+2808,US,vanilla,4279,country
+2809,US,light,4115,country
+2810,US,texture,3904,country
+2811,US,dark,3838,country
+2812,US,pinot,3837,country
+2813,US,good,3792,country
+2814,US,raspberry,3693,country
+2815,US,chocolate,3494,country
+2816,US,pepper,3465,country
+2817,US,apple,3435,country
+2818,US,sauvignon,3274,country
+2819,US,vineyard,3203,country
+2820,US,tart,3198,country
+2821,US,fresh,3114,country
+2822,US,offers,3025,country
+2823,US,plum,3021,country
+2824,US,syrah,2944,country
+2825,US,years,2915,country
+2826,US,crisp,2882,country
+2827,US,like,2880,country
+2828,US,merlot,2870,country
+2829,US,cherries,2867,country
+2830,US,dried,2661,country
+2831,US,lemon,2619,country
+2832,US,spicy,2581,country
+2833,US,green,2564,country
+2834,Ukraine,flavors,10,country
+2835,Ukraine,aromas,8,country
+2836,Ukraine,finish,7,country
+2837,Ukraine,apple,6,country
+2838,Ukraine,cherry,5,country
+2839,Ukraine,green,5,country
+2840,Ukraine,lemon,5,country
+2841,Ukraine,sweet,5,country
+2842,Ukraine,black,4,country
+2843,Ukraine,juice,4,country
+2844,Ukraine,mouth,4,country
+2845,Ukraine,nose,4,country
+2846,Ukraine,sparkling,4,country
+2847,Ukraine,bubbles,3,country
+2848,Ukraine,citrus,3,country
+2849,Ukraine,palate,3,country
+2850,Ukraine,persistent,3,country
+2851,Ukraine,pleasantly,3,country
+2852,Ukraine,pomegranate,3,country
+2853,Ukraine,acidic,2,country
+2854,Ukraine,acidity,2,country
+2855,Ukraine,blossom,2,country
+2856,Ukraine,bread,2,country
+2857,Ukraine,clean,2,country
+2858,Ukraine,dried,2,country
+2859,Ukraine,finishes,2,country
+2860,Ukraine,flowers,2,country
+2861,Ukraine,froth,2,country
+2862,Ukraine,midpalate,2,country
+2863,Ukraine,mouthfilling,2,country
+2864,Ukraine,notes,2,country
+2865,Ukraine,peach,2,country
+2866,Ukraine,plum,2,country
+2867,Ukraine,rosé,2,country
+2868,Ukraine,strawberry,2,country
+2869,Ukraine,tart,2,country
+2870,Ukraine,touch,2,country
+2871,Ukraine,yeast,2,country
+2872,Ukraine,abundantly,1,country
+2873,Ukraine,aggressive,1,country
+2874,Ukraine,aligote,1,country
+2875,Ukraine,attack,1,country
+2876,Ukraine,baked,1,country
+2877,Ukraine,bit,1,country
+2878,Ukraine,blackberry,1,country
+2879,Ukraine,blend,1,country
+2880,Ukraine,bouquet,1,country
+2881,Ukraine,brioche,1,country
+2882,Ukraine,brisk,1,country
+2883,Ukraine,brut,1,country
+2884,Uruguay,flavors,30,country
+2885,Uruguay,finish,28,country
+2886,Uruguay,aromas,25,country
+2887,Uruguay,palate,18,country
+2888,Uruguay,berry,15,country
+2889,Uruguay,blend,13,country
+2890,Uruguay,plum,13,country
+2891,Uruguay,tannat,13,country
+2892,Uruguay,earthy,11,country
+2893,Uruguay,tomato,10,country
+2894,Uruguay,drink,8,country
+2895,Uruguay,herbal,8,country
+2896,Uruguay,acidity,7,country
+2897,Uruguay,feels,7,country
+2898,Uruguay,fruits,7,country
+2899,Uruguay,baked,6,country
+2900,Uruguay,black,6,country
+2901,Uruguay,note,6,country
+2902,Uruguay,notes,6,country
+2903,Uruguay,oak,6,country
+2904,Uruguay,rubbery,6,country
+2905,Uruguay,spicy,6,country
+2906,Uruguay,tannins,6,country
+2907,Uruguay,blackberry,5,country
+2908,Uruguay,dry,5,country
+2909,Uruguay,merlot,5,country
+2910,Uruguay,oaky,5,country
+2911,Uruguay,roasted,5,country
+2912,Uruguay,smells,5,country
+2913,Uruguay,spice,5,country
+2914,Uruguay,burnt,4,country
+2915,Uruguay,cabernet,4,country
+2916,Uruguay,cassis,4,country
+2917,Uruguay,color,4,country
+2918,Uruguay,feel,4,country
+2919,Uruguay,firm,4,country
+2920,Uruguay,fresh,4,country
+2921,Uruguay,fruit,4,country
+2922,Uruguay,like,4,country
+2923,Uruguay,mild,4,country
+2924,Uruguay,raisin,4,country
+2925,Uruguay,rough,4,country
+2926,Uruguay,tastes,4,country
+2927,Uruguay,woody,4,country
+2928,Uruguay,balance,3,country
+2929,Uruguay,bit,3,country
+2930,Uruguay,bitter,3,country
+2931,Uruguay,blackfruit,3,country
+2932,Uruguay,cherry,3,country
+2933,Uruguay,chunky,3,country
