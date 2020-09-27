@@ -6,6 +6,10 @@ This code removes duplicates, filters the dataset to a subset of records (reflec
 
 Final CSVs are included in the res/ folder. 
 
+## Workbook
+
+Draft workbook up on [Tableau Public](https://public.tableau.com/profile/patrick.bradshaw#!/vizhome/WineReviews_16012101336830/Nav) (log-in required).
+
 ## License
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
