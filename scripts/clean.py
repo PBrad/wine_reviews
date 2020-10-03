@@ -144,6 +144,7 @@ df_top_words.groupby(['tag'])['variable'].value_counts()
 # Best/Worst Review Examples
 # =============================================================================
 
+# Best/Worst by Variety
 df_best = df_top.sort_values(by = 'points', ascending = False).groupby(['variety']).head(5)
 df_best = df_best[['description', 'points', 'price', 'variety', 'country']]
 df_best['tag'] = 'best reviews'
@@ -153,6 +154,22 @@ df_worst = df_worst[['description', 'points', 'price', 'variety', 'country']]
 df_worst['tag'] = 'worst reviews'
 
 df_best_worst = df_best.append(df_worst, ignore_index = True)
+df_best_worst['variable'] = 'variety'
+
+# Best/Worst by Country
+df_country_best = df_top.sort_values(by = 'points', ascending = False).groupby(['country']).head(5)
+df_country_best = df_country_best[['description', 'points', 'price', 'variety', 'country']]
+df_country_best['tag'] = 'best reviews'
+
+df_country_worst = df_top.sort_values(by = 'points', ascending = False).groupby(['country']).tail(5)
+df_country_worst = df_country_worst[['description', 'points', 'price', 'variety', 'country']]
+df_country_worst['tag'] = 'worst reviews'
+
+df_country_best_worst = df_country_best.append(df_country_worst, ignore_index = True)
+df_country_best_worst['variable'] = 'country'
+
+# Append
+df_best_worst = df_best_worst.append(df_country_best_worst, ignore_index = True)
 
 # =============================================================================
 # Write out
