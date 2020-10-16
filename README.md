@@ -8,7 +8,7 @@ Final CSVs are included in the res/ folder.
 
 ## Workbook
 
-Draft workbook up on [Tableau Public](https://public.tableau.com/profile/patrick.bradshaw#!/vizhome/WineReviews_16012101336830/Nav) (log-in required).
+Draft workbook up on [Tableau Public](https://public.tableau.com/profile/patrick.bradshaw#!/vizhome/WineReviews_16012101336830/WineExplorerFinal).
 
 ## License
 
